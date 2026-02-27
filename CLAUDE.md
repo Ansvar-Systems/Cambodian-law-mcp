@@ -1,4 +1,4 @@
-# Cambodia Law MCP Server — Developer Guide
+# Cambodia Law MCP Server -- Developer Guide
 
 ## Git Workflow
 
@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-Cambodia Law MCP server providing Cambodian legislation search via Model Context Protocol. Strategy A deployment (Vercel, bundled SQLite DB). Covers data protection, cybercrimes, ICT, companies, consumer protection, and other key Acts.
+Cambodia Law MCP server providing Cambodian legislation search via Model Context Protocol. Strategy A deployment (Vercel, bundled SQLite DB). Covers the Constitution, labor law, taxation, investment, commercial enterprises, customs, land law, forestry, tourism, anti-corruption, and other key Acts.
 
 ## Architecture
 
@@ -26,7 +26,7 @@ Cambodia Law MCP server providing Cambodian legislation search via Model Context
 - Every tool returns `ToolResponse<T>` with `results` + `_metadata` (freshness, disclaimer)
 - Tool descriptions are written for LLM agents -- explain WHEN and WHY to use each tool
 - Capability-gated tools only appear in `tools/list` when their DB tables exist
-- Cambodia uses "Section N" for Acts and "Article N" for the Constitution
+- Cambodia uses "Article N" for all law types (civil law tradition, French-influenced)
 
 ## Testing
 
@@ -41,32 +41,36 @@ Cambodia Law MCP server providing Cambodian legislation search via Model Context
 - Journal mode: DELETE (not WAL -- required for Vercel serverless)
 - Runtime: copied to `/tmp/database.db` on Vercel cold start
 - Metadata: `db_metadata` table stores tier, schema_version, built_at, builder
+- Env var: `KH_LAW_DB_PATH` overrides default database path
 
 ## Data Pipeline
 
-1. `scripts/ingest.ts` -> fetches from Cambodia Law -> JSON seed files in `data/seed/`
-2. `scripts/build-db.ts` -> seed JSON -> SQLite database in `data/database.db`
-3. `scripts/drift-detect.ts` -> verifies upstream content hasn't changed
+1. `scripts/census.ts` -> enumerates laws from CDC + camlawbox.com -> `data/census.json`
+2. `scripts/ingest.ts` -> downloads CDC PDFs, extracts text via pdftotext, parses provisions -> `data/seed/*.json`
+3. `scripts/build-db.ts` -> seed JSON -> SQLite database in `data/database.db`
+4. `scripts/drift-detect.ts` -> verifies upstream content has not changed
 
-## Data Source
+## Data Sources
 
-- **Cambodia Law** (cambodialaw.org) -- National Council for Law Reporting
-- **License:** Government Open Data
-- **Languages:** English (en) is the primary legal language; Swahili (sw) for some documents
-- **Coverage:** All Acts of Parliament, subsidiary legislation, Constitution of Cambodia 2010, selected case law
+- **CDC (cdc.gov.kh)**: Council for the Development of Cambodia -- ~175 English PDF translations of key laws
+  - License: Government Open Data
+  - Language: English
+  - Coverage: Constitution, major legislation across all sectors (labor, taxation, investment, commerce, land, environment, etc.)
+- **Camlawbox (camlawbox.com)**: Cambodia Law Box -- 8,000+ law titles with dates and types
+  - Individual law pages require authentication (title-only in census)
+  - Used for census metadata only
 
 ## Cambodia-Specific Notes
 
-- Cambodia uses a common law legal system inherited from British colonial administration
-- The Constitution of Cambodia 2010 is the supreme law (Article 2)
-- Legislation is identified by Act title + year (e.g., "Data Protection Act 2019")
-- Citations follow the pattern: "Section N, [Act Title Year]" or shorthand "s N"
-- For the Constitution: "Article N, Constitution of Cambodia 2010"
-- The Data Protection Act 2019 was significantly influenced by EU GDPR
-- Some sections of the Computer Misuse and Cybercrimes Act 2018 are suspended by court order
-- The Office of the Data Protection Commissioner (ODPC) is the data protection supervisory authority
+- Cambodia follows a civil law tradition inherited from French colonial administration
+- The Constitution of the Kingdom of Cambodia was adopted on 21 September 1993
+- Legislation uses "Article" as the provision unit (not "Section")
+- Law types: Laws (Chbab), Sub-Decrees (Anu-Kret), Royal Decrees (Preah Reach Kret), Prakas (ministerial orders), Instructions, Notifications, Circulars
+- Khmer is the official language but English translations are available for major laws
+- The National Assembly and Senate are the two legislative chambers
+- Some PDFs from CDC are scanned images in Khmer (zero provisions extracted via pdftotext)
 
 ## Deployment
 
 - Vercel Strategy A: DB bundled in `data/database.db`, included via `vercel.json` includeFiles
-- npm package: `@ansvar/cambodia-law-mcp` with bin entry for stdio
+- npm package: `@ansvar/cambodian-law-mcp` with bin entry for stdio

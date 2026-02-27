@@ -4,29 +4,43 @@ mcp_name: "Cambodia Law MCP"
 jurisdiction: "KH"
 
 sources:
-  - name: "Cambodia Official Legal Database"
-    authority: "Government of Cambodia"
-    official_portal: "https://camlawbox.com"
-    canonical_identifier: "TBD"
-    retrieval_method: "HTML"
+  - name: "Council for the Development of Cambodia (CDC)"
+    authority: "Royal Government of Cambodia"
+    official_portal: "https://cdc.gov.kh/laws-and-regulations/"
+    canonical_identifier: "cdc-kh"
+    retrieval_method: "PDF"
     api_documentation: "N/A"
-    update_frequency: "TBD"
-    last_ingested: "PENDING_FIRST_INGEST"
+    update_frequency: "periodic"
+    last_ingested: "2026-02-27"
     license_or_terms:
       type: "Government Publication"
-      url: "https://camlawbox.com"
-      summary: "Official government legal database; legislation is public domain as government publication"
+      url: "https://cdc.gov.kh"
+      summary: "Official government investment portal; legislation published as public documents"
     coverage:
-      scope: "TBD -- update after census"
-      limitations: "TBD -- update after census"
+      scope: "175 English-language PDFs covering Constitution, major legislation (labor, taxation, investment, commerce, land, environment, customs, forestry, tourism, anti-corruption, etc.)"
+      limitations: "Not all Cambodian laws available; some PDFs are scanned Khmer images without OCR-extractable text"
+    languages:
+      - "en"
+
+  - name: "Cambodia Law Box (camlawbox.com)"
+    authority: "Private legal information provider"
+    official_portal: "https://www.camlawbox.com"
+    canonical_identifier: "camlawbox"
+    retrieval_method: "HTML"
+    api_documentation: "N/A"
+    update_frequency: "periodic"
+    last_ingested: "2026-02-27"
+    license_or_terms:
+      type: "Terms of Service"
+      url: "https://www.camlawbox.com/files/TERMS-AND-CONDITIONS-OF-USE-CAMLAWBOX-rev.-07.07.2018.pdf"
+      summary: "Largest free online collection of Cambodian laws; individual law pages require login"
+    coverage:
+      scope: "8,000+ law titles with dates and types (census metadata only; full text behind authentication)"
+      limitations: "Individual law pages require login; used for census enumeration only"
     languages:
       - "en"
 
 data_freshness:
   automated_checks: false
-  check_frequency: "TBD"
+  check_frequency: "monthly"
   last_verified: "2026-02-27"
-
-# Notes:
-# - Source URL: camlawbox.com
-# - Update this file after completing census and first ingestion

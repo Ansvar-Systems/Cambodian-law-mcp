@@ -2,6 +2,185 @@
   "$schema": "./golden-tests.schema.json",
   "version": "1.0",
   "mcp_name": "Cambodia Law MCP",
-  "description": "Golden contract tests for the Cambodia Law MCP -- add tests after first ingestion",
-  "tests": []
+  "description": "Golden contract tests for the Cambodia Law MCP -- validates core tool outputs against known Cambodian legislation",
+  "tests": [
+    {
+      "id": "search-001",
+      "category": "search_legislation",
+      "description": "Search for 'corruption' returns Anti Corruption Law provisions",
+      "tool": "search_legislation",
+      "input": { "query": "corruption", "limit": 5 },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["corruption", "Anti Corruption Law"],
+        "min_results": 1
+      }
+    },
+    {
+      "id": "search-002",
+      "category": "search_legislation",
+      "description": "Search for 'taxation' returns tax law provisions",
+      "tool": "search_legislation",
+      "input": { "query": "taxation", "limit": 5 },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["tax"],
+        "min_results": 1
+      }
+    },
+    {
+      "id": "search-003",
+      "category": "search_legislation",
+      "description": "Search for 'labor' returns Labor Law provisions",
+      "tool": "search_legislation",
+      "input": { "query": "labor employment", "limit": 5 },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["labor"],
+        "min_results": 1
+      }
+    },
+    {
+      "id": "search-004",
+      "category": "search_legislation",
+      "description": "Search for nonsense returns graceful empty result",
+      "tool": "search_legislation",
+      "input": { "query": "xyzzy99nonsense" },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "get-001",
+      "category": "get_provision",
+      "description": "Get Constitution Article 1 -- Kingdom of Cambodia",
+      "tool": "get_provision",
+      "input": { "document_id": "cdc-the-constitution", "section": "1" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["Cambodia", "Kingdom", "King"]
+      }
+    },
+    {
+      "id": "get-002",
+      "category": "get_provision",
+      "description": "Get Labor Law Article 1 -- scope of the law",
+      "tool": "get_provision",
+      "input": { "document_id": "cdc-the-labor-law-of-cambodia-970313", "section": "1" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["employers", "workers", "employment"]
+      }
+    },
+    {
+      "id": "get-003",
+      "category": "get_provision",
+      "description": "Get Anti Corruption Law Article 2 -- objective",
+      "tool": "get_provision",
+      "input": { "document_id": "cdc-anti-corruption-law-full-text", "section": "2" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["corruption"]
+      }
+    },
+    {
+      "id": "get-004",
+      "category": "get_provision",
+      "description": "Get provision from nonexistent document handles gracefully",
+      "tool": "get_provision",
+      "input": { "document_id": "nonexistent-law-xyzzy" },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "validate-001",
+      "category": "validate_citation",
+      "description": "Validate citation for Constitution Article 1",
+      "tool": "validate_citation",
+      "input": { "citation": "Article 1, The Constitution" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "validate-002",
+      "category": "validate_citation",
+      "description": "Validate citation for Labor Law Article 1",
+      "tool": "validate_citation",
+      "input": { "citation": "Article 1, Labor Law" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "stance-001",
+      "category": "build_legal_stance",
+      "description": "Build legal stance on investment incentives",
+      "tool": "build_legal_stance",
+      "input": { "query": "investment incentives", "limit": 3 },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "stance-002",
+      "category": "build_legal_stance",
+      "description": "Build legal stance on land ownership",
+      "tool": "build_legal_stance",
+      "input": { "query": "land ownership rights", "limit": 3 },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "format-001",
+      "category": "format_citation",
+      "description": "Format citation in full format",
+      "tool": "format_citation",
+      "input": { "citation": "Article 1, Constitution", "format": "full" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "currency-001",
+      "category": "check_currency",
+      "description": "Check currency of the Constitution",
+      "tool": "check_currency",
+      "input": { "document_id": "cdc-the-constitution" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["in_force"]
+      }
+    },
+    {
+      "id": "currency-002",
+      "category": "check_currency",
+      "description": "Check currency of the Labor Law",
+      "tool": "check_currency",
+      "input": { "document_id": "cdc-the-labor-law-of-cambodia-970313" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["in_force"]
+      }
+    },
+    {
+      "id": "sources-001",
+      "category": "list_sources",
+      "description": "List sources returns data source metadata",
+      "tool": "list_sources",
+      "input": {},
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true,
+        "any_result_contains": ["Cambodia"]
+      }
+    }
+  ]
 }
