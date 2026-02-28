@@ -1,0 +1,981 @@
+{
+  "id": "cdc-the-constitution",
+  "type": "statute",
+  "title": "The Constitution _930921",
+  "title_en": "The Constitution _930921",
+  "short_name": "The Constitution _930921",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://cdc.gov.kh/wp-content/uploads/2022/04/THE-CONSTITUTION.pdf",
+  "description": "CDC Category: Constitution",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter I: SOVEREIGNTY",
+      "section": "1",
+      "title": "",
+      "content": "Cambodia is a Kingdom with a King who shall rule according to the Constitution and to the principles of\nliberal democracy and pluralism.\n\nThe Kingdom of Cambodia shall be independent, sovereign, peaceful, permanently neutral and non-\n\naligned country."
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter I: SOVEREIGNTY",
+      "section": "2",
+      "title": "",
+      "content": "The territorial integrity of the Kingdom of Cambodia, shall absolutely not to be violated within its\n\nborders as defined in the 1/100,000 scale map made between the year 1933-1953 and internationally\n\nrecognized between the years 1963 – 1969."
+    },
+    {
+      "provision_ref": "3",
+      "chapter": "Chapter I: SOVEREIGNTY",
+      "section": "3",
+      "title": "",
+      "content": "The Kingdom of Cambodia is an indivisible state."
+    },
+    {
+      "provision_ref": "4",
+      "chapter": "Chapter I: SOVEREIGNTY",
+      "section": "4",
+      "title": "",
+      "content": "The motto of the Kingdom of Cambodia is: “Nation, Religion, King”."
+    },
+    {
+      "provision_ref": "5",
+      "chapter": "Chapter I: SOVEREIGNTY",
+      "section": "5",
+      "title": "",
+      "content": "The official language and script are Khmer."
+    },
+    {
+      "provision_ref": "6",
+      "chapter": "Chapter I: SOVEREIGNTY",
+      "section": "6",
+      "title": "",
+      "content": "Phnom Penh is the capital of the Kingdom of Cambodia.\n\nThe national flag, anthem and coat-of-arms shall be defined in Annexes I-II and III"
+    },
+    {
+      "provision_ref": "7",
+      "chapter": "Chapter II: THE KING",
+      "section": "7",
+      "title": "",
+      "content": "The King of Cambodia shall reign but shall not govern.\n\nThe King shall be the Head of State for life. The King shall be inviolable."
+    },
+    {
+      "provision_ref": "8",
+      "chapter": "Chapter II: THE KING",
+      "section": "8",
+      "title": "",
+      "content": "The King of Cambodia shall be a symbol of unity and eternity of the nation.\n\nThe King shall be guarantor of the national independence, sovereignty, and territorial integrity of the\n\nKingdom of Cambodia the protector of rights and freedom for all citizens and the guarantor of\ninternational treaties."
+    },
+    {
+      "provision_ref": "9",
+      "chapter": "Chapter II: THE KING",
+      "section": "9",
+      "title": "",
+      "content": "The King shall assume the august role of arbitrator to ensure the faithful execution of public powers."
+    },
+    {
+      "provision_ref": "10",
+      "chapter": "Chapter II: THE KING",
+      "section": "10",
+      "title": "",
+      "content": "The Cambodian monarchy shall be an appointed regime."
+    },
+    {
+      "provision_ref": "11",
+      "chapter": "Chapter II: THE KING",
+      "section": "11",
+      "title": "",
+      "content": "If the King cannot perform his normal duties as Head of State due to His serious illness, as certified by\n\ndoctors chosen by the Chairman of the National Assembly and the Prime Minister, the Chairman of the\n\nNational Assembly shall perform the duties of Head of State as “regent”."
+    },
+    {
+      "provision_ref": "12",
+      "chapter": "Chapter II: THE KING",
+      "section": "12",
+      "title": "",
+      "content": "In case of the death of the king, the Chairman of the National Assembly shall take over the responsibility\n\nas Acting Head of State in the capacity of Regent of the Kingdom of Cambodia."
+    },
+    {
+      "provision_ref": "13",
+      "chapter": "Chapter II: THE KING",
+      "section": "13",
+      "title": "",
+      "content": "Within a period of not more than seven days, the new King of the Kingdom of Cambodia shall be chosen\n\nby the Royal Council of the throne.\n\nThe Royal Council of the Throne shall consist of :\n\n· Chairman of the National Assembly\n\n· Prime Minister\n\n· Samdech the Chiefs of the Orders of Mohanikay and Thammayut\n· The First and Second Vice-Chairman of the National Assembly\n\nThe organization and functioning of the Council of the Throne shall be determined by law."
+    },
+    {
+      "provision_ref": "14",
+      "chapter": "Chapter II: THE KING",
+      "section": "14",
+      "title": "",
+      "content": "The King of Cambodia shall be a member of the Royal family, of at least 30 years old, descending from\n\nthe blood line of King Ang Duong, King Norodom or King Sisowath.\n\nUpon enthronement, the King shall take the oath of allegiance as stipulated in Annex IV."
+    },
+    {
+      "provision_ref": "15",
+      "chapter": "Chapter II: THE KING",
+      "section": "15",
+      "title": "",
+      "content": "The wife of the reigning King shall have the royal title of Queen of Cambodia."
+    },
+    {
+      "provision_ref": "16",
+      "chapter": "Chapter II: THE KING",
+      "section": "16",
+      "title": "",
+      "content": "The Queen of the Kingdom of Cambodia shall not have the right to engage in politics, to assume the role\n\nof Head of State or Head of Government, or to assume other administrative or political roles.\n\nThe Queen of the Kingdom of Cambodia shall exercise activities that serve the social, humanitarian,\n\nreligious interests, and shall assist the King with protocol and diplomatic functions."
+    },
+    {
+      "provision_ref": "17",
+      "chapter": "Chapter II: THE KING",
+      "section": "17",
+      "title": "",
+      "content": "The provision as stated in the first clause of Article 7, “the King of Cambodia shall reign but shall not\n\ngovern”, absolutely shall not be amended."
+    },
+    {
+      "provision_ref": "18",
+      "chapter": "Chapter II: THE KING",
+      "section": "18",
+      "title": "",
+      "content": "The King shall communicate with the assembly by royal messages. These Royal messages shall not be\n\nsubjected to discussion by the National Assembly."
+    },
+    {
+      "provision_ref": "19",
+      "chapter": "Chapter II: THE KING",
+      "section": "19",
+      "title": "",
+      "content": "The King shall appoint the Prime Minister and the Council of Ministers according to the procedures\nstipulated in Article 100."
+    },
+    {
+      "provision_ref": "20",
+      "chapter": "Chapter II: THE KING",
+      "section": "20",
+      "title": "",
+      "content": "The King shall grant an audience twice a month to the Prime Minister and the Council of Ministers to\nhear their reports on the State of the Nation."
+    },
+    {
+      "provision_ref": "21",
+      "chapter": "Chapter II: THE KING",
+      "section": "21",
+      "title": "",
+      "content": "Upon Proposals by the Council of Ministers, the King shall sign decrees (Kret) appointing, transferring or\n\nending the mission of high civil and military officials, ambassadors and Envoys Extraordinary and\n\nPlenipotentiary.\n\nUpon proposals by the Supreme Council of Magistracy, the King shall sign decrees (Kret) appointing,\n\ntransferring or removing judges."
+    },
+    {
+      "provision_ref": "22",
+      "chapter": "Chapter II: THE KING",
+      "section": "22",
+      "title": "",
+      "content": "When the nation faces danger, the King shall make a proclamation to the people putting the country in\n\nstate of emergency after agreement with the Prime Minister and the Chairman of the National\nAssembly."
+    },
+    {
+      "provision_ref": "23",
+      "chapter": "Chapter II: THE KING",
+      "section": "23",
+      "title": "",
+      "content": "The King is the Supreme Commander of the Royal Khmer Armed Forces. The Commander-in-Chief of\n\nthe Royal Khmer Armed Forces shall be appointed to command the Armed Forces."
+    },
+    {
+      "provision_ref": "24",
+      "chapter": "Chapter II: THE KING",
+      "section": "24",
+      "title": "",
+      "content": "The King shall serve as chairman of the Supreme Council of National Defense to be established by law.\n\nThe King shall declare war after approval of the National Assembly."
+    },
+    {
+      "provision_ref": "25",
+      "chapter": "Chapter II: THE KING",
+      "section": "25",
+      "title": "",
+      "content": "The King shall receive letters of credentials from ambassador or envoys extraordinary and\nplenipotentiary of foreign countries accredited to the Kingdom of Cambodia."
+    },
+    {
+      "provision_ref": "26",
+      "chapter": "Chapter II: THE KING",
+      "section": "26",
+      "title": "",
+      "content": "The King shall sign and ratify international treaties and conventions after a vote of approval by the\nNational Assembly."
+    },
+    {
+      "provision_ref": "27",
+      "chapter": "Chapter II: THE KING",
+      "section": "27",
+      "title": "",
+      "content": "The King shall have the right to grant partial or complete amnesty."
+    },
+    {
+      "provision_ref": "28",
+      "chapter": "Chapter II: THE KING",
+      "section": "28",
+      "title": "",
+      "content": "The King shall sign the law promulgating the Constitution, laws (Kram) adopted by the National\n\nAssembly, and sign decrees (Kret) presented by the Council of Minister."
+    },
+    {
+      "provision_ref": "29",
+      "chapter": "Chapter II: THE KING",
+      "section": "29",
+      "title": "",
+      "content": "The King shall establish and confer national medals proposed by the Council of Ministers. The King shall\n\nconfer civil and military ranks as determined by law."
+    },
+    {
+      "provision_ref": "30",
+      "chapter": "Chapter II: THE KING",
+      "section": "30",
+      "title": "",
+      "content": "In the absence of the King, the President of the National Assembly shall assume the duty as acting Head\n\nof State."
+    },
+    {
+      "provision_ref": "31",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "31",
+      "title": "",
+      "content": "The Kingdom of Cambodia shall recognize and respect human rights as stipulated in the United Nations\nCharter, the Universal Declaration of Human rights, the covenants and conventions related to human\n\nrights, women’s and children’s rights.\n\nEvery Khmer citizens shall be equal before the law, enjoying the same rights, freedom and fulfilling the\n\nsame obligations regardless of race, color, sex, language, religious belief, political tendency, birth origin,\n\nsocial status, wealth or other status.\n\nThe exercise of personal rights and freedom by any individual shall not adversely affect the rights and\nfreedom of others. The exercise of such rights and freedom shall be in accordance with the law."
+    },
+    {
+      "provision_ref": "32",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "32",
+      "title": "",
+      "content": "Every Khmer citizen shall have the right to life, personal freedom, and security.\n\nThere shall be no capital punishment."
+    },
+    {
+      "provision_ref": "33",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "33",
+      "title": "",
+      "content": "Khmer citizens shall not be deprived of their nationality, exiled or arrested and deported to any foreign\n\ncountry unless there is a mutual agreement on extradition.\n\nKhmer citizens residing abroad enjoy the protection of the State.\n\nThe Khmer nationality shall be determined by a law."
+    },
+    {
+      "provision_ref": "34",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "34",
+      "title": "",
+      "content": "Citizens of either sex shall enjoy the right to vote and to stand as a candidate for the election.\n\nCitizens of either sex of at least eighteen years old, have the right to vote. Citizens of either sex of at\n\nleast 25 years old, have the right to stand as candidates for the election.\n\nProvisions restricting the right to vote and to stand for the election shall be defined in the Electoral law."
+    },
+    {
+      "provision_ref": "35",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "35",
+      "title": "",
+      "content": "Khmer citizens of either sex shall have the right to participate actively in the political, economic, social\n\nand cultural life of the nation.\n\nAny suggestions from the people shall be given full consideration by the grant of the State."
+    },
+    {
+      "provision_ref": "36",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "36",
+      "title": "",
+      "content": "Khmer citizens of either sex shall enjoy the right to choose any employment according their ability and\nto the needs of the society.\n\nKhmer citizens of either sex shall receive equal pay for equal work.\n\nThe work by housewives in the home shall have the same value as what they can receive when working\noutside the home.\n\nEvery Khmer citizen shall have the right to obtain social security and other social benefits as determined\nby law.\n\nKhmer citizens of either sex shall have the right to form and to be member of trade unions.\n\nThe organization and conduct of trade unions shall be determined by law."
+    },
+    {
+      "provision_ref": "37",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "37",
+      "title": "",
+      "content": "The right to strike and to non-violent demonstration shall be implemented in the framework of a law."
+    },
+    {
+      "provision_ref": "38",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "38",
+      "title": "",
+      "content": "The law guarantees there shall be no physical abuse against any individual.\n\nThe law shall protect life, honor, and dignity of the citizens.\n\nThe prosecution, arrest, or detention of any person shall not be done except in accordance with the law.\n\nCoercion, physical ill-treatment or any other mistreatment that imposes additional punishment on a\n\ndetainee or prisoner shall be prohibited. Persons who commit, participate or conspire in such acts shall\n\nbe punished according to the law.\n\nConfessions obtained by physical or mental force shall not be admissible as evidence of guilt.\n\nAny case of doubt, it shall be resolved in favor of the accused.\n\nThe accused shall be considered innocent until the court has judged finally on the case.\n\nEvery citizen shall enjoy the right to defense through judicial recourse."
+    },
+    {
+      "provision_ref": "39",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "39",
+      "title": "",
+      "content": "Khmer citizens shall have the right to denounce, make complaints or file claims against any breach of\n\nthe law by state and social organs or by members of such organs committed during the course of their\nduties. The settlement of complaints and claims shall be the competence of the courts."
+    },
+    {
+      "provision_ref": "40",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "40",
+      "title": "",
+      "content": "Citizens’ freedom to travel, far and near and legal settlement shall be respected.\n\nKhmer citizens shall have the right to travel and settle abroad and return to the country.\n\nThe rights to privacy of residence, and to the secrecy of correspondence by mail, telegram, fax, telex and\n\ntelephone shall be guaranteed.\n\nAny search of the house, material and body shall be in accordance with the law."
+    },
+    {
+      "provision_ref": "41",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "41",
+      "title": "",
+      "content": "Khmer citizens shall have freedom of expression, press, publication and assembly. No one shall exercise\n\nthis right to infringe upon the rights of others, to effect the good traditions of the society, to violate\n\npublic law and order and national security.\n\nThe regime of the media shall be determined by law."
+    },
+    {
+      "provision_ref": "42",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "42",
+      "title": "",
+      "content": "Khmer Citizens shall have the right to establish associations and political parties. These rights shall be\n\ndetermined by law.\n\nKhmer citizens may take part in mass organizations for mutual benefit to protect national achievement\nand social order."
+    },
+    {
+      "provision_ref": "43",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "43",
+      "title": "",
+      "content": "Khmer citizens of either sex shall have the right to freedom of belief.\n\nFreedom of religious belief and worship shall be guaranteed by the State on the condition that such\nfreedom does not affect other religious beliefs or violate public order and security.\n\nBuddhism shall be the religion of the State."
+    },
+    {
+      "provision_ref": "44",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "44",
+      "title": "",
+      "content": "All persons, individually or collectively, shall have the right to ownership. Only Khmer legal entities and\n\ncitizens of Khmer nationality shall have the right to own land.\n\nLegal private ownership shall be protected by law.\n\nThe right to confiscate properties from any person shall be exercised only in the public interest as\nprovided for under the law and shall require fair and just compensation in advance."
+    },
+    {
+      "provision_ref": "45",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "45",
+      "title": "",
+      "content": "All forms of discrimination against women shall be abolished.\n\nThe exploitation of women in employment shall be prohibited.\n\nMen and women are equal in all fields especially with respect to marriage and family matters.\n\nMarriage shall be conducted according to conditions determined by law based on the principle of\nmutual consent between one husband and one wife."
+    },
+    {
+      "provision_ref": "46",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "46",
+      "title": "",
+      "content": "The commerce of human beings, exploitation by prostitution and obscenity which affect the reputation\n\nof women shall be prohibited.\n\nA woman shall not lose her job because of pregnancy. Woman shall have the right to take maternity\n\nleave with full pay and with no loss of seniority or other social benefits.\n\nThe state and society shall provide opportunities to women, especially to those living in rural areas\n\nwithout adequate social support, so they can get employment, medical care, and send their children to\n\nschool, and to have decent living conditions."
+    },
+    {
+      "provision_ref": "47",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "47",
+      "title": "",
+      "content": "Parents shall have the duty to take care of and educate their children to become good citizens.\n\nChildren shall have the duty to take good care of their elderly mother and father according to Khmer\ntraditions."
+    },
+    {
+      "provision_ref": "48",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "48",
+      "title": "",
+      "content": "The State shall protect the rights of children as stipulated in the Convention on Children, in particular,\n\nthe right to life, education, protection during wartime, and from economic or sexual exploitation.\n\nThe State shall protect children from acts that are injurious to their educational opportunities, health\n\nand welfare."
+    },
+    {
+      "provision_ref": "49",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "49",
+      "title": "",
+      "content": "Every Khmer citizen shall respect the Constitution and laws.\n\nAll Khmer citizens shall have the duty to take part in the national reconstruction and to defend the\nhomeland. The duty to defend the country shall be determined by law."
+    },
+    {
+      "provision_ref": "50",
+      "chapter": "Chapter III: THE RIGHTS AND OBLIGATIONS OF KHMER CITIZENS",
+      "section": "50",
+      "title": "",
+      "content": "Khmer citizens of either sex shall respect the principles of national sovereignty, liberal multi-party\n\ndemocracy.\n\nKhmer citizens of either sex shall respect public and legally acquired private properties."
+    },
+    {
+      "provision_ref": "51",
+      "chapter": "Chapter IV: ON POLICY",
+      "section": "51",
+      "title": "",
+      "content": "The Kingdom of Cambodia adopts a policy of Liberal Democracy and Pluralism.\n\nThe Cambodian people are the master of their own country.\n\nAll powers belong to the people. The people exercise these powers through the National Assembly, the\n\nRoyal Government and the Judiciary.\n\nThe Legislative, Executive, and the Judicial powers shall be separate."
+    },
+    {
+      "provision_ref": "52",
+      "chapter": "Chapter IV: ON POLICY",
+      "section": "52",
+      "title": "",
+      "content": "The Royal Government of Cambodia shall protect the independence, sovereignty, territorial integrity of\n\nthe Kingdom of Cambodia, adopt the policy of national reconciliation to insure national unity, and\n\npreserve the good national traditions of the country. The Royal Government of Cambodia shall preserve\n\nand protect the law and ensure public order and security. The State shall give priority to endeavors\n\nwhich improve the welfare and standard of living of citizens."
+    },
+    {
+      "provision_ref": "53",
+      "chapter": "Chapter IV: ON POLICY",
+      "section": "53",
+      "title": "",
+      "content": "The Kingdom of Cambodia adopts a policy of permanent neutrality and non-alignment. The Kingdom of\n\nCambodia follows a policy of peaceful co-existence with its neighbors and with all other countries\n\nthroughout the world.\n\nThe Kingdom of Cambodia shall not invade any country, nor interfere in any other country’s internal\n\naffairs, directly or indirectly, and shall solve any problems peacefully with due respect for mutual\n\ninterests.\n\nThe Kingdom of Cambodia shall not joint in any military alliance or military pact which is incompatible\nwith its policy of neutrality.\n\nThe Kingdom of Cambodia shall not permit any foreign military base on its territory and shall not have\nits own military base abroad, except within the framework of a United Nations request.\n\nThe Kingdom of Cambodia reserves the right to receive foreign assistance in military equipment,\n\narmaments, ammunitions, in training of its armed forces, and other assistance for self-defense and to\n\nmaintain public order and security within its territory."
+    },
+    {
+      "provision_ref": "54",
+      "chapter": "Chapter IV: ON POLICY",
+      "section": "54",
+      "title": "",
+      "content": "The manufacturing, use and storage of nuclear, chemical or biological weapons shall be absolutely\n\nprohibited."
+    },
+    {
+      "provision_ref": "55",
+      "chapter": "Chapter IV: ON POLICY",
+      "section": "55",
+      "title": "",
+      "content": "Any treaty and agreement incompatible with the independence, sovereignty, territorial integrity,\n\nneutrality and national unity of the Kingdom of Cambodia shall be annulled."
+    },
+    {
+      "provision_ref": "56",
+      "chapter": "Chapter V: ECONOMY",
+      "section": "56",
+      "title": "",
+      "content": "The Kingdom of Cambodia shall adopt the market economy system. The preparation and process of this\n\neconomic system shall be determined by the law."
+    },
+    {
+      "provision_ref": "57",
+      "chapter": "Chapter V: ECONOMY",
+      "section": "57",
+      "title": "",
+      "content": "Tax collection shall be in accordance with the law. The national budget shall be determined by law.\n\nManagement of the monetary and financial system shall be defined by law."
+    },
+    {
+      "provision_ref": "58",
+      "chapter": "Chapter V: ECONOMY",
+      "section": "58",
+      "title": "",
+      "content": "State property notably comprises land, mineral resources, mountains, sea, underwater, continental shelf,\n\ncoastline, airspace, islands, rivers, canals, streams, lakes, forests, natural resources, economic and\n\ncultural centers, bases for national defense and other facilities determined as State property.\n\nThe control, use and management of State properties shall be determined by law."
+    },
+    {
+      "provision_ref": "59",
+      "chapter": "Chapter V: ECONOMY",
+      "section": "59",
+      "title": "",
+      "content": "The State shall protect the environment and balance of abundant natural resources and establish a\nprecise plan of management of land, water, air, wind, geology, ecological system, mines, energy, petrol\n\nand gas, rocks and sand, gems, forests and forestry products, wildlife, fish and aquatic resources."
+    },
+    {
+      "provision_ref": "60",
+      "chapter": "Chapter V: ECONOMY",
+      "section": "60",
+      "title": "",
+      "content": "Khmer citizens shall have the right to sell their product. The obligation to sell products to the State, or\n\nthe temporary use of private or State properties shall be prohibited unless authorized by law under\nspecial circumstances."
+    },
+    {
+      "provision_ref": "61",
+      "chapter": "Chapter V: ECONOMY",
+      "section": "61",
+      "title": "",
+      "content": "The State shall promote economic development in all sectors and remote areas, especially in agriculture,\n\nhandicrafts, industry, with attention to policies of water, electricity, roads and means of transport,\n\nmodern technology and a system of credit."
+    },
+    {
+      "provision_ref": "62",
+      "chapter": "Chapter V: ECONOMY",
+      "section": "62",
+      "title": "",
+      "content": "The State shall pay attention and help solve production matters, protect the price of products for\n\nfarmers, crafters, and find marketplace for them to sell their products."
+    },
+    {
+      "provision_ref": "63",
+      "chapter": "Chapter V: ECONOMY",
+      "section": "63",
+      "title": "",
+      "content": "The State shall respect market management in order to guarantee a better standard of living for the\npeople."
+    },
+    {
+      "provision_ref": "64",
+      "chapter": "Chapter V: ECONOMY",
+      "section": "64",
+      "title": "",
+      "content": "The State shall ban and severely punish those who import, manufacture sell illicit drugs, counterfeit and\n\nexpired goods which affect the health and life of the consumers"
+    },
+    {
+      "provision_ref": "65",
+      "chapter": "Chapter VI: EDUCATION, CULTURE, SOCIAL AFFAIRS",
+      "section": "65",
+      "title": "",
+      "content": "The State shall protect and upgrade citizens’ rights to quality education at all levels and shall take\nnecessary steps for quality education to reach all citizens.\n\nThe State shall respect physical education and sports for the welfare of all Khmer citizens."
+    },
+    {
+      "provision_ref": "66",
+      "chapter": "Chapter VI: EDUCATION, CULTURE, SOCIAL AFFAIRS",
+      "section": "66",
+      "title": "",
+      "content": "The state shall establish a comprehensive and standardized educational system throughout the country\n\nthat shall guarantee the principles of educational freedom and quality to ensure that all citizens have\nequal opportunity to earn a living."
+    },
+    {
+      "provision_ref": "67",
+      "chapter": "Chapter VI: EDUCATION, CULTURE, SOCIAL AFFAIRS",
+      "section": "67",
+      "title": "",
+      "content": "The State shall adopt an educational program according to the principle of modern pedagogy including\ntechnology and foreign languages.\n\nThe State shall control public and private schools and classrooms at all levels."
+    },
+    {
+      "provision_ref": "68",
+      "chapter": "Chapter VI: EDUCATION, CULTURE, SOCIAL AFFAIRS",
+      "section": "68",
+      "title": "",
+      "content": "The State shall provide free primary and secondary education to all citizens in public schools.\n\nCitizens shall receive education for at least 9 years.\n\nThe State shall disseminate and develop the Pali schools and the Buddhist Institute."
+    },
+    {
+      "provision_ref": "69",
+      "chapter": "Chapter VI: EDUCATION, CULTURE, SOCIAL AFFAIRS",
+      "section": "69",
+      "title": "",
+      "content": "The State shall preserve and promote national culture.\n\nThe State shall Protect and promote the Khmer language as required.\n\nThe State shall preserve ancient monuments and artifacts and restore historic sites."
+    },
+    {
+      "provision_ref": "70",
+      "chapter": "Chapter VI: EDUCATION, CULTURE, SOCIAL AFFAIRS",
+      "section": "70",
+      "title": "",
+      "content": "Any offense affecting cultural artistic heritage shall carry a severe punishment."
+    },
+    {
+      "provision_ref": "71",
+      "chapter": "Chapter VI: EDUCATION, CULTURE, SOCIAL AFFAIRS",
+      "section": "71",
+      "title": "",
+      "content": "The perimeter of the national heritage sites as well as heritage that has been classified as world\nheritage, shall be considered neutral zones where there shall be no military activity."
+    },
+    {
+      "provision_ref": "72",
+      "chapter": "Chapter VI: EDUCATION, CULTURE, SOCIAL AFFAIRS",
+      "section": "72",
+      "title": "",
+      "content": "The health of the people shall be guaranteed. The State shall give full consideration to disease\n\nprevention and medical treatment. Poor citizens shall receive free medical consultation in public\n\nhospitals, infirmaries and maternities.\n\nThe State shall establish infirmaries and maternities in rural areas."
+    },
+    {
+      "provision_ref": "73",
+      "chapter": "Chapter VI: EDUCATION, CULTURE, SOCIAL AFFAIRS",
+      "section": "73",
+      "title": "",
+      "content": "The State shall give full consideration to children and mothers. The State shall establish nurseries, and\n\nhelp support women and children who have inadequate support."
+    },
+    {
+      "provision_ref": "74",
+      "chapter": "Chapter VI: EDUCATION, CULTURE, SOCIAL AFFAIRS",
+      "section": "74",
+      "title": "",
+      "content": "The State shall assist the disabled and the families of combatants who sacrificed their lives for the\nnation."
+    },
+    {
+      "provision_ref": "75",
+      "chapter": "Chapter VI: EDUCATION, CULTURE, SOCIAL AFFAIRS",
+      "section": "75",
+      "title": "",
+      "content": "The State shall establish a social security system for workers and employees."
+    },
+    {
+      "provision_ref": "76",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "76",
+      "title": "",
+      "content": "The National Assembly consists of at least 120 members.\n\nThe deputies shall be elected by a free, universal, equal, direct and secret ballot.\n\nThe deputies may be re-elected.\n\nKhmer citizens able to stand for election shall be the Khmer citizens of either sex who have the right to\nvote, at least 25 years of age, and who have Khmer nationality at birth.\n\nPreparation for the election, procedure and electoral process shall be determined by an Electoral Law."
+    },
+    {
+      "provision_ref": "77",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "77",
+      "title": "",
+      "content": "The deputies in the National Assembly shall represent the entire Khmer people, not only Khmers from\n\ntheir constituencies.\n\nAny imperative mandate shall be nullified."
+    },
+    {
+      "provision_ref": "78",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "78",
+      "title": "",
+      "content": "The legislative term of the National Assembly shall be 5 years and terminates on the day when the new\n\nNational Assembly convenes.\n\nThe National Assembly shall not be dissolved before the end of its term except when the Royal\ngovernment is twice deposed within a period of twelve months. In this case, following a proposal from\n\nthe Prime Minister and the approval of the Chairman of the National Assembly, the King shall dissolve\n\nthe National Assembly.\n\nThe election of a new National Assembly shall be held no later than 60 days from the date of\n\ndissolution. During this period, the Royal government shall only be empowered to conduct routine\n\nbusiness.\n\nIn time of war or other special circumstances where an election cannot be held, the National Assembly\n\nmay extend its term for one year at a time, upon the request of the King.\n\nSuch an extension shall require at least a two-third vote of the entire National Assembly."
+    },
+    {
+      "provision_ref": "79",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "79",
+      "title": "",
+      "content": "The National Assembly mandate shall be incompatible with the holding of any active public function and\nof any membership in other institutions provided for in the Constitution, except when the assembly\n\nmembers (s) is (are) required to serve in the Royal Government.\n\nIn this circumstances, the said assembly member (s) shall retain the usual assembly membership but\n\nshall not hold any position in the Permanent Standing Committee and in other assembly commissions."
+    },
+    {
+      "provision_ref": "80",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "80",
+      "title": "",
+      "content": "The deputies shall enjoy parliamentary immunity.\n\nNo assembly member shall be prosecuted, detained or arrested because of opinions expressed during\n\nthe exercise of his (her) duties.\n\nThe accusation, arrest, or detention of an assembly member shall be made only with the permission of\n\nthe National Assembly or by the Standing Committee of the National Assembly between sessions,\n\nexcept in case of flagrante delicto. In that case, the competent authority shall immediately report to the\n\nNational Assembly or to the Standing Committee for decision.\n\nThe decision made by the Standing Committee of the National Assembly shall be submitted to the\nNational Assembly at its next session for approval by a 2/3 majority vote of the assembly members.\n\nIn any case, detention or prosecution of a deputy shall be suspended by a 3/4 majority vote of the\n\nNational Assembly members."
+    },
+    {
+      "provision_ref": "81",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "81",
+      "title": "",
+      "content": "The National Assembly shall have an autonomous budget to conduct its function.\n\nThe deputies shall have receive a remuneration."
+    },
+    {
+      "provision_ref": "82",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "82",
+      "title": "",
+      "content": "The National Assembly shall hold its first session no later than sixty days after the election upon notice\nby the King.\n\nBefore taking office, the National Assembly shall decide on the validity of each member’s mandate and\n\nvote separately to choose a Chairman, Vice-Chairmen and members of each Commission by a 2/3\n\nmajority vote.\n\nAll National Assembly members must take oath before taking office according to the text contained in\nAnnex 5."
+    },
+    {
+      "provision_ref": "83",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "83",
+      "title": "",
+      "content": "The National Assembly shall hold its ordinary session twice a year.\n\nEach session shall last at least three months. If there is a proposal from the King or the Prime Minister\n\nor at least 1/3 of the National Assembly members, the National Assembly Standing Committee shall call\n\nan extraordinary session of the National Assembly.\n\nIn this case, the agenda with the conditions of the extraordinary session, shall be disseminated to the\n\npopulation as well as the date of the meeting."
+    },
+    {
+      "provision_ref": "84",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "84",
+      "title": "",
+      "content": "Between the National Assembly sessions, the National Assembly Standing Committee shall manage the\n\nwork of the National Assembly.\n\nThe Permanent Standing Committee of the National Assembly consists of the Chairman of the National\nAssembly, the Vice-Chairmen, and the Chairmen of National Assembly Commissions."
+    },
+    {
+      "provision_ref": "85",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "85",
+      "title": "",
+      "content": "The National Assembly sessions shall be held in the Royal Capital of Cambodia in the Assembly Hall,\n\nunless stipulated otherwise in the summons, due to special circumstances.\n\nExcept where so stipulated and unless held at the place and date as stipulated, any meeting of the\n\nNational Assembly shall be considered as illegal and void."
+    },
+    {
+      "provision_ref": "86",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "86",
+      "title": "",
+      "content": "If the country is in a state of emergency, the National Assembly shall meet every day continuously. The\n\nNational Assembly has the right to terminate this state of emergency whenever the situation permits.\n\nIf the National Assembly is not able to meet because of circumstances such as the occupation by foreign\nforces the declaration of the state of emergency must be automatically extended.\n\nDuring the state of emergency, the National Assembly shall not be dissolved."
+    },
+    {
+      "provision_ref": "87",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "87",
+      "title": "",
+      "content": "The Chairman of the National Assembly shall chair the assembly session; receive draft bills and\n\nresolutions adopted by the National Assembly, ensure the implementation of the Internal Rules of\n\nProcedure and manage the assembly relations with foreign countries.\n\nIf the Chairman is unable to perform his/her duties due to illness or to fulfill the function of Head of\n\nState as interim or as a Regent, or is on a mission abroad, a Vice-Chairman shall replace him.\n\nIn case of resignation or death of the Chairman or the Vice-Chairman (men), the National Assembly shall\n\nelect a new Chairman or Vice-Chairman (men)."
+    },
+    {
+      "provision_ref": "88",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "88",
+      "title": "",
+      "content": "The National Assembly sessions shall be held in public.\n\nThe National Assembly shall meet in closed session at the request of the Chairman or of at least 1/10 of\n\nits members, of the King or of the Prime Minister.\n\nThe National Assembly meeting shall be considered as valid provided there is a quorum of 7/10 of all\n\nmembers."
+    },
+    {
+      "provision_ref": "89",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "89",
+      "title": "",
+      "content": "Upon the request by at least 1/10 of its members the National Assembly shall invite a high ranking\n\nofficial to clarify important special issues."
+    },
+    {
+      "provision_ref": "90",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "90",
+      "title": "",
+      "content": "The National Assembly shall be the only organ to hold legislative power. This power shall not be\n\ntransferable to any other organ or any individual.\n\nThe National Assembly shall approve the national budget, State Plannings, loans, lendings and the\n\ncreation, changes or annulment of tax.\n\nThe National Assembly shall approve Administrative Accounts.\n\nThe National Assembly shall approve the law on amnesty.\n\nThe National Assembly shall approve or annul treaties or international convention.\n\nThe National Assembly shall approve law on the declaration of war.\n\nThe adoption of the above-mentioned clauses shall be decided by a simple majority of the entire\n\nassembly membership.\n\nThe National Assembly shall pass a vote of confidence in the Royal Government by a 2/3 majority of all\n\nmembers."
+    },
+    {
+      "provision_ref": "91",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "91",
+      "title": "",
+      "content": "The deputies and the Prime Minister shall have the right to initiate legislation.\n\nThe deputies shall have the right to propose any amendments to the laws, but, the proposals shall be\n\nunacceptable if they aim at reducing public income or increasing the burden on the people."
+    },
+    {
+      "provision_ref": "92",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "92",
+      "title": "",
+      "content": "Laws adopted by the National Assembly which run counter to the principles of preserving national\nindependence, sovereignty, territorial integrity, and affect the political unity or the administration of the\n\nnation shall be annulled. The Constitutional Council is the only organ which shall decide upon this\n\nannulment."
+    },
+    {
+      "provision_ref": "93",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "93",
+      "title": "",
+      "content": "Any law approved by the National Assembly and signed by the King for its promulgation, shall go into\n\neffect in Phnom Penh 10 days after signing and throughout the country 20 days after its signing.\n\nLaw that are stipulated as urgent shall take effect immediately throughout the country after\npromulgation.\n\nAll laws promulgated by the King shall be published in the Official Gazette and published throughout the\ncountry in accordance with the above schedule."
+    },
+    {
+      "provision_ref": "94",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "94",
+      "title": "",
+      "content": "The National Assembly shall establish various necessary commissions. The organization and functioning\n\nof the National Assembly shall be determined by the Internal Rules of Procedure of the National\nAssembly."
+    },
+    {
+      "provision_ref": "95",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "95",
+      "title": "",
+      "content": "In case of death, resignation, or dismissal of an assembly deputy at least 6 months before the end of\n\nthe mandate, a replacement shall be appointed in accordance with the Internal Rules of Procedure of\n\nthe National Assembly and the Electoral Law."
+    },
+    {
+      "provision_ref": "96",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "96",
+      "title": "",
+      "content": "The deputies have the right to put a motion against the Royal Government. The motion shall be\n\nsubmitted in writing through the Chairman of the National Assembly.\n\nThe replies shall be given by one or several ministers depending on the matters related to the\naccountability of one or several ministers. If the case concerns the overall policy of the Royal\n\nGovernment, the Prime Minister shall reply in person.\n\nThe explanations by the ministers or by the Prime Minister shall be given verbally or in writing.\n\nThe explanations shall be provided within 7 days after the day when the question is received.\n\nIn case of verbal reply, the Chairman of the National Assembly shall decide whether to hold an open\n\ndebate or not. If there is no debate, the answer of the minister or the Prime Minister shall be\n\nconsidered final. If there is a debate, the questioner, other speakers, the ministers, or the Prime Minister\n\nmay exchange views within the time-frame not exceeding one session.\n\nThe National Assembly shall establish one day each week for questions and answers. There shall be no\n\nvote during any session reserved for this purpose."
+    },
+    {
+      "provision_ref": "97",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "97",
+      "title": "",
+      "content": "The National Assembly commissions may invite any minister to clarify certain issues under his/her field\n\nof responsibility."
+    },
+    {
+      "provision_ref": "98",
+      "chapter": "Chapter VII: THE NATIONAL ASSEMBLY",
+      "section": "98",
+      "title": "",
+      "content": "The National Assembly shall dismiss a member or members of the Royal Government or the whole\nCabinet by the adoption of a motion of censure by 2/3 majority of the entire National Assembly.\n\nThe motion of censure shall be proposed to the National Assembly by at least 30 assembly members in\n\norder for the entire National Assembly to decide."
+    },
+    {
+      "provision_ref": "99",
+      "chapter": "Chapter VIII: THE ROYAL GOVERNMENT",
+      "section": "99",
+      "title": "",
+      "content": "The Council of Ministers is the Royal Government of the Kingdom of Cambodia.\n\nThe Council of Ministers shall be led by one Prime Minister assisted by Deputy Prime Ministers and by\nSenior Ministers, Ministers, and Secretaries of State as members."
+    },
+    {
+      "provision_ref": "100",
+      "chapter": "Chapter VIII: THE ROYAL GOVERNMENT",
+      "section": "100",
+      "title": "",
+      "content": "At the recommendation of the Chairman and with the agreement of both the Vice-Chairmen of the\n\nNational Assembly, the King shall designate a dignitary from among the representatives of the winning\n\nparty to form the Royal Government. This designated representative along with other members chosen\n\nfrom the political parties or represented in the National Assembly, then present themselves to the\n\nNational Assembly to ask for a vote of confidence.\n\nAfter the National Assembly has given its vote of confidence, the King shall issue a Royal Decree (Kret)\n\nappointing the entire Council of Ministers.\n\nBefore taking office, the Council of Ministers shall take an oath as stipulated in Annex 6."
+    },
+    {
+      "provision_ref": "101",
+      "chapter": "Chapter VIII: THE ROYAL GOVERNMENT",
+      "section": "101",
+      "title": "",
+      "content": "The functions of members of the Royal Government shall be incompatible with professional activities in\ntrade or industry and with the holding of any position in the public service."
+    },
+    {
+      "provision_ref": "102",
+      "chapter": "Chapter VIII: THE ROYAL GOVERNMENT",
+      "section": "102",
+      "title": "",
+      "content": "Members of the Royal Government shall be collectively responsible to the National Assembly for the\noverall policy of the Royal Government.\n\nEach member of the Royal Government shall be individually responsible to the Prime Minister and the\nNational Assembly for his/her own conduct."
+    },
+    {
+      "provision_ref": "103",
+      "chapter": "Chapter VIII: THE ROYAL GOVERNMENT",
+      "section": "103",
+      "title": "",
+      "content": "Members of the Royal Government shall not use the orders, written or verbal, of anyone as grounds to\n\nexonerate themselves from their responsibility."
+    },
+    {
+      "provision_ref": "104",
+      "chapter": "Chapter VIII: THE ROYAL GOVERNMENT",
+      "section": "104",
+      "title": "",
+      "content": "The Council of Ministers shall meet every week in plenary session or in a working session.\n\nThe Prime Minister shall chair the plenary sessions.\n\nThe Prime Minister may assign a Deputy Prime Minister to preside over the working sessions.\n\nMinutes of the Council of Minister’s meetings shall be forwarded to the King for His information."
+    },
+    {
+      "provision_ref": "105",
+      "chapter": "Chapter VIII: THE ROYAL GOVERNMENT",
+      "section": "105",
+      "title": "",
+      "content": "The Prime Minister shall have the right to delegate his power to a Deputy Prime Minister or to any\nmember of the Royal Government."
+    },
+    {
+      "provision_ref": "106",
+      "chapter": "Chapter VIII: THE ROYAL GOVERNMENT",
+      "section": "106",
+      "title": "",
+      "content": "If the post of Prime Minister is permanently vacant, a new Council of Ministers shall be appointed under\n\nthe procedure stipulated in this Constitution. If the vacancy is temporary, an acting Prime Minister shall\n\nbe provisionally appointed."
+    },
+    {
+      "provision_ref": "107",
+      "chapter": "Chapter VIII: THE ROYAL GOVERNMENT",
+      "section": "107",
+      "title": "",
+      "content": "Each member of the Royal Government shall be punished for any crimes or misdemeanors that he/she\n\nhas committed in the course of his/her duty.\n\nIn such cases and when he/she has committed serious offenses in the course of his/her duty, the\n\nAssembly shall decide to file charges against him/her with the competent court.\n\nThe assembly shall decide on such matters through a secret vote by a simple majority thereof."
+    },
+    {
+      "provision_ref": "108",
+      "chapter": "Chapter VIII: THE ROYAL GOVERNMENT",
+      "section": "108",
+      "title": "",
+      "content": "The organization and functioning of the Council of Ministers shall be determined by law."
+    },
+    {
+      "provision_ref": "109",
+      "chapter": "Chapter IX: THE JUDICIARY",
+      "section": "109",
+      "title": "",
+      "content": "The Judicial power shall be an independent power\n\nThe Judiciary shall guarantee and uphold impartiality and protect the rights and freedoms of the\ncitizens.\n\nThe Judiciary shall cover all lawsuits including administrative ones.\n\nThe authority of the Judiciary shall be granted to the Supreme Court and to the lower courts of all\nsectors and levels."
+    },
+    {
+      "provision_ref": "110",
+      "chapter": "Chapter IX: THE JUDICIARY",
+      "section": "110",
+      "title": "",
+      "content": "Trials shall be conducted in the name of Khmer citizens in accordance with the legal procedures and\nlaws in force.\n\nOnly judges shall have the right to adjudicate. A judge shall fulfill this duty with strict respect for the\n\nlaws, wholeheartedly, and conscientiously."
+    },
+    {
+      "provision_ref": "111",
+      "chapter": "Chapter IX: THE JUDICIARY",
+      "section": "111",
+      "title": "",
+      "content": "Judicial power shall not be granted to the legislative or executive branches."
+    },
+    {
+      "provision_ref": "112",
+      "chapter": "Chapter IX: THE JUDICIARY",
+      "section": "112",
+      "title": "",
+      "content": "Only the Department of Public Prosecution shall have the right to file criminal suits."
+    },
+    {
+      "provision_ref": "113",
+      "chapter": "Chapter IX: THE JUDICIARY",
+      "section": "113",
+      "title": "",
+      "content": "The King shall be the guarantor of the independence of the Judiciary. The Supreme Council of the\n\nMagistracy shall assist the King in this matter."
+    },
+    {
+      "provision_ref": "114",
+      "chapter": "Chapter IX: THE JUDICIARY",
+      "section": "114",
+      "title": "",
+      "content": "Judges shall not be dismissed. The Supreme Council of the Magistracy shall take disciplinary actions\n\nagainst any delinquent judges."
+    },
+    {
+      "provision_ref": "115",
+      "chapter": "Chapter IX: THE JUDICIARY",
+      "section": "115",
+      "title": "",
+      "content": "The Supreme Council of the Magistracy shall be chaired by the King. The King may appoint a\n\nrepresentative to chair the Supreme Council of the Magistracy.\n\nThe Supreme Council of the Magistracy shall be chaired by the King. The King may appoint a\n\nrepresentative to chair the Supreme Council of the Magistracy.\n\nThe Supreme Council of the Magistracy shall make proposals to the King on the appointment of judges\nand prosecutors to all courts.\n\nThe Supreme Council of Magistracy shall meet under the chairmanship of the President of the Supreme\n\nCourt or the General Prosecutor of the Supreme Court to decide on disciplinary actions against judges\nor prosecutors."
+    },
+    {
+      "provision_ref": "116",
+      "chapter": "Chapter IX: THE JUDICIARY",
+      "section": "116",
+      "title": "",
+      "content": "The statutes of judges and prosecutors and the functioning of the judiciary shall be defined in separate\nlaws."
+    },
+    {
+      "provision_ref": "117",
+      "chapter": "Chapter X: THE CONSTITUTIONAL COUNCIL",
+      "section": "117",
+      "title": "",
+      "content": "The Constitutional Council shall have the duty to safeguard respect for the Constitution, and the laws\n\npassed by the National Assembly.\n\nThe Constitutional Council shall have the right to examine and decide on contested cases involving the\nelection of assembly members."
+    },
+    {
+      "provision_ref": "118",
+      "chapter": "Chapter X: THE CONSTITUTIONAL COUNCIL",
+      "section": "118",
+      "title": "",
+      "content": "The Constitutional Council shall consist of nine members with a nine-year mandate. 1/3 of the members\n\nof the Council shall be replaced every three years. 3 members shall be appointed by the King, 3\n\nmembers by the National Assembly and 3 others by the Supreme Council of the Magistracy.\n\nThe Chairman shall be elected by the members of the Constitutional Council. He/she shall have a\n\ndeciding vote in cases of equal vote."
+    },
+    {
+      "provision_ref": "119",
+      "chapter": "Chapter X: THE CONSTITUTIONAL COUNCIL",
+      "section": "119",
+      "title": "",
+      "content": "Members of the Constitutional Council member shall be selected among the dignitaries with a higher-\n\neducation degree in law, administration, diplomacy or economics and who have considerable work\n\nexperience."
+    },
+    {
+      "provision_ref": "120",
+      "chapter": "Chapter X: THE CONSTITUTIONAL COUNCIL",
+      "section": "120",
+      "title": "",
+      "content": "The function of a Constitutional Council member shall be incompatible with that of a member of the\nRoyal Government, member of the National Assembly, Chairman or Vice-Chairman of a political party,\n\nPresident or Vice-President of a trade-union or in-post judges."
+    },
+    {
+      "provision_ref": "121",
+      "chapter": "Chapter X: THE CONSTITUTIONAL COUNCIL",
+      "section": "121",
+      "title": "",
+      "content": "The King, the Prime Minister, the Chairman of the National Assembly, or 1/10 of the assembly members\n\nshall forward draft bills to the Constitutional Council for examination before their promulgation.\n\nThe Rules of Procedure of the National Assembly and various organizational laws shall be forwarded to\nthe Constitutional Council before their promulgation.\n\nThe Constitutional Council shall decide within no more than thirty days whether the laws and the\nInternal Rules of Procedure are constitutional."
+    },
+    {
+      "provision_ref": "122",
+      "chapter": "Chapter X: THE CONSTITUTIONAL COUNCIL",
+      "section": "122",
+      "title": "",
+      "content": "After a law is promulgated, the King, the Prime Minister, the Chairman of the National Assembly, 1/10\n\nof the assembly members or the courts, may ask the Constitutional Council to examine the\n\nConstitutionality of that law.\n\nCitizens shall have the right to appeal against the constitutionality of laws through their representatives\nor the Chairman of the National Assembly as stipulated in the above paragraph."
+    },
+    {
+      "provision_ref": "123",
+      "chapter": "Chapter X: THE CONSTITUTIONAL COUNCIL",
+      "section": "123",
+      "title": "",
+      "content": "Provisions in any article ruled by the Constitutional Council as unconstitutional shall not be promulgated\nor implemented.\n\nThe decision of the Constitutional Council is final."
+    },
+    {
+      "provision_ref": "124",
+      "chapter": "Chapter X: THE CONSTITUTIONAL COUNCIL",
+      "section": "124",
+      "title": "",
+      "content": "The King shall consult with the Constitutional Council on all proposals to amend the Constitution."
+    },
+    {
+      "provision_ref": "125",
+      "chapter": "Chapter X: THE CONSTITUTIONAL COUNCIL",
+      "section": "125",
+      "title": "",
+      "content": "An organic law shall specify the organization and operation of the Constitutional Council."
+    },
+    {
+      "provision_ref": "126",
+      "chapter": "Chapter XI: THE ADMINISTRATION",
+      "section": "126",
+      "title": "",
+      "content": "The territory of the Kingdom of Cambodia shall be divided into provinces and municipalities.\n\nProvinces shall be divided into districts (srok) and districts into communes (khum).\n\nMunicipalities shall be divided into Khan and Khan into Sangkat."
+    },
+    {
+      "provision_ref": "127",
+      "chapter": "Chapter XI: THE ADMINISTRATION",
+      "section": "127",
+      "title": "",
+      "content": "Provinces, municipalities, districts, khan, khum and sangkat shall be governed in accordance with organic\n\nlaw."
+    },
+    {
+      "provision_ref": "128",
+      "chapter": "Chapter XII: THE NATIONAL CONGRESS",
+      "section": "128",
+      "title": "",
+      "content": "The National Congress shall enable the people to be directly informed on various matters of national\ninterests and to raise issues and requests for the State authority to solve.\n\nKhmer citizens of both sexes shall have the right to participate in the National Congress."
+    },
+    {
+      "provision_ref": "129",
+      "chapter": "Chapter XII: THE NATIONAL CONGRESS",
+      "section": "129",
+      "title": "",
+      "content": "The National Congress shall meet once a year in early December at the convocation of the Prime\nMinister.\n\nIt shall proceed under the chairmanship of the King."
+    },
+    {
+      "provision_ref": "130",
+      "chapter": "Chapter XII: THE NATIONAL CONGRESS",
+      "section": "130",
+      "title": "",
+      "content": "The National Congress shall adopt recommendations for consideration by State authorities and the\nNational Assembly.\n\nThe organization and operation of the National Congress shall be defined by a law."
+    },
+    {
+      "provision_ref": "131",
+      "chapter": "Chapter XIII: EFFECTS, REVISIONS AND AMENDMENTS",
+      "section": "131",
+      "title": "",
+      "content": "This Constitution shall be the Supreme law of the Kingdom of Cambodia.\n\nLaws and decisions by the State institutions shall have to be in strict conformity with the Constitution."
+    },
+    {
+      "provision_ref": "132",
+      "chapter": "Chapter XIII: EFFECTS, REVISIONS AND AMENDMENTS",
+      "section": "132",
+      "title": "",
+      "content": "The initiative to review or to amend the Constitution shall be the prerogative of the King, the Prime\n\nMinister, the Chairman of the National Assembly at the suggestion of 1/4 of all the assembly members.\n\nRevision or amendments shall be enacted by a Constitutional law passed by the National Assembly with\na 2/3 majority vote."
+    },
+    {
+      "provision_ref": "133",
+      "chapter": "Chapter XIII: EFFECTS, REVISIONS AND AMENDMENTS",
+      "section": "133",
+      "title": "",
+      "content": "Revision or amendment affecting the system of liberal and pluralistic democracy and the regime of\nConstitutional Monarchy shall be prohibited."
+    },
+    {
+      "provision_ref": "135",
+      "chapter": "Chapter XIV: TRANSITIONAL PROVISIONS",
+      "section": "135",
+      "title": "",
+      "content": "This Constitution, after its adoption, shall be declared in force immediately by the Head of State of\n\nCambodia."
+    },
+    {
+      "provision_ref": "136",
+      "chapter": "Chapter XIV: TRANSITIONAL PROVISIONS",
+      "section": "136",
+      "title": "",
+      "content": "After the entry into force of this Constitution, the Constituent Assembly shall become the National\n\nAssembly.\n\nThe Internal Rules of Procedure of the National Assembly shall come into force after adoption by the\nNational Assembly.\n\nIn the case where the National Assembly is not yet functional, the Chairman, the First and Second Vice-\n\nChairmen of the Constituent Assembly shall participate in the discharge of duties in the Council of the\nThrone if so required by the situation in the country."
+    },
+    {
+      "provision_ref": "137",
+      "chapter": "Chapter XIV: TRANSITIONAL PROVISIONS",
+      "section": "137",
+      "title": "",
+      "content": "After this Constitution takes effect, the King shall be selected in accordance with conditions stipulated in\n\narticles 13 and 14."
+    },
+    {
+      "provision_ref": "138",
+      "chapter": "Chapter XIV: TRANSITIONAL PROVISIONS",
+      "section": "138",
+      "title": "",
+      "content": "After this Constitution takes effect, and during the first legislature, the King of the Kingdom of Cambodia\n\nshall appoint a First Prime Minister and Second Prime Minister to form the Royal Government after\nsecuring the consent of the Chairman, the First and Second Vice-Chairmen of the Constituent Assembly.\n\nThe Co-Chairmen existing before the adoption of this Constitution shall participate as members of the\n\nCommittee and in the Council of the Throne as stipulated in articles 11 and 13 above."
+    },
+    {
+      "provision_ref": "139",
+      "chapter": "Chapter XIV: TRANSITIONAL PROVISIONS",
+      "section": "139",
+      "title": "",
+      "content": "Laws and standard documents in Cambodia that safeguard State properties, rights, freedom and legal\n\nprivate properties and in conformity with the national interests, shall continue to be effective until\n\naltered or abrogated by new texts, except those provisions that are contrary to the spirit of this\n\nConstitution.\n\nThis Constitution was adopted by the Constitutional Assembly in Phnom Penh on 21 September 1993 at\n\nits 2nd Plenary session.\n\nPhnom Penh, 21 September, 1993.\n\nThe President,\n\nSigned: SON SANN"
+    }
+  ],
+  "definitions": []
+}

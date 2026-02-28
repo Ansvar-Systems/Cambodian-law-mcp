@@ -52,13 +52,22 @@ Cambodia Law MCP server providing Cambodian legislation search via Model Context
 
 ## Data Sources
 
-- **CDC (cdc.gov.kh)**: Council for the Development of Cambodia -- ~175 English PDF translations of key laws
+- **CDC (cdc.gov.kh)**: Council for the Development of Cambodia -- 167 English PDF translations of key laws
   - License: Government Open Data
   - Language: English
   - Coverage: Constitution, major legislation across all sectors (labor, taxation, investment, commerce, land, environment, etc.)
-- **Camlawbox (camlawbox.com)**: Cambodia Law Box -- 8,000+ law titles with dates and types
-  - Individual law pages require authentication (title-only in census)
-  - Used for census metadata only
+  - Full article-level provision extraction: 5,876 provisions, 74 definitions
+- **Camlawbox (camlawbox.com)**: Cambodia Law Box -- 7,815 law titles with dates, types, and URLs
+  - Individual law pages require authentication (302 redirect to login)
+  - Title + metadata indexed as single provisions for search and discovery
+  - Categories: acts, sub-decrees, prakas, regulations, instructions, notifications, international instruments
+
+## Coverage
+
+- **Total laws:** 7,982 (100% census coverage)
+- **Full-text (CDC):** 167 laws, 5,876 provisions, 74 definitions
+- **Title + metadata (camlawbox):** 7,815 entries, 7,815 title provisions
+- **Database:** 16.9 MB
 
 ## Cambodia-Specific Notes
 

@@ -1,0 +1,1884 @@
+{
+  "id": "cdc-law-on-taxation-970108",
+  "type": "statute",
+  "title": "Law on Taxation_970108",
+  "title_en": "Law on Taxation_970108",
+  "short_name": "Law on Taxation_970108",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://cdc.gov.kh/wp-content/uploads/2022/05/LAW-ON-TAXATION_970108-.pdf",
+  "description": "CDC Category: Tax & Accounting",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "1",
+      "title": "General Provisions",
+      "content": "General Provisions"
+    },
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "1",
+      "title": "Change to Tax",
+      "content": "Change to Tax"
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "2",
+      "title": "Object of the Tax",
+      "content": "Object of the Tax"
+    },
+    {
+      "provision_ref": "3",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "3",
+      "title": "Definitions",
+      "content": "Definitions"
+    },
+    {
+      "provision_ref": "4",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "4",
+      "title": "Tax Regimes",
+      "content": "Tax Regimes"
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "2",
+      "title": "Taxable Profit and Tax Rates",
+      "content": "Taxable Profit and Tax Rates"
+    },
+    {
+      "provision_ref": "5",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "5",
+      "title": "Tax Year",
+      "content": "Tax Year"
+    },
+    {
+      "provision_ref": "6",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "6",
+      "title": "Accounting Rules",
+      "content": "Accounting Rules"
+    },
+    {
+      "provision_ref": "7",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "7",
+      "title": "Taxable Profit",
+      "content": "Taxable Profit"
+    },
+    {
+      "provision_ref": "8",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "8",
+      "title": "Determination of Taxable Profit",
+      "content": "Determination of Taxable Profit"
+    },
+    {
+      "provision_ref": "9",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "9",
+      "title": "Income Exempt from Tax",
+      "content": "Income Exempt from Tax"
+    },
+    {
+      "provision_ref": "10",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "10",
+      "title": "Determination of Income of a Pass-Through",
+      "content": "Determination of Income of a Pass-Through"
+    },
+    {
+      "provision_ref": "3",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "3",
+      "title": "Deductions",
+      "content": "Deductions"
+    },
+    {
+      "provision_ref": "11",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "11",
+      "title": "Allowable Deductions",
+      "content": "Allowable Deductions"
+    },
+    {
+      "provision_ref": "12",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "12",
+      "title": "Interest Expense",
+      "content": "Interest Expense"
+    },
+    {
+      "provision_ref": "13",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "13",
+      "title": "Depreciation of Tangible Property",
+      "content": "Depreciation of Tangible Property"
+    },
+    {
+      "provision_ref": "14",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "14",
+      "title": "Depreciation of Intangible Property",
+      "content": "Depreciation of Intangible Property"
+    },
+    {
+      "provision_ref": "15",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "15",
+      "title": "Depletion of Natural Resources",
+      "content": "Depletion of Natural Resources"
+    },
+    {
+      "provision_ref": "16",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "16",
+      "title": "Charitable Contributions",
+      "content": "Charitable Contributions"
+    },
+    {
+      "provision_ref": "17",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "17",
+      "title": "Carry Forward of Losses",
+      "content": "Carry Forward of Losses"
+    },
+    {
+      "provision_ref": "18",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "18",
+      "title": "Allocation of Income and Deductions among Taxpayers",
+      "content": "Allocation of Income and Deductions among Taxpayers"
+    },
+    {
+      "provision_ref": "19",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "19",
+      "title": "Not Allowed as Deductions",
+      "content": "Not Allowed as Deductions"
+    },
+    {
+      "provision_ref": "4",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "4",
+      "title": "Tax Rates and Tax Due",
+      "content": "Tax Rates and Tax Due"
+    },
+    {
+      "provision_ref": "20",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "20",
+      "title": "Determination of Tax Due",
+      "content": "Determination of Tax Due"
+    },
+    {
+      "provision_ref": "21",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "21",
+      "title": "Tax on Insurance Companies",
+      "content": "Tax on Insurance Companies"
+    },
+    {
+      "provision_ref": "22",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "22",
+      "title": "Tax on Unrelated Business Profit",
+      "content": "Tax on Unrelated Business Profit"
+    },
+    {
+      "provision_ref": "23",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "23",
+      "title": "Advanced Tax on Dividend Distributions",
+      "content": "Advanced Tax on Dividend Distributions"
+    },
+    {
+      "provision_ref": "5",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "5",
+      "title": "Other Taxes",
+      "content": "Other Taxes"
+    },
+    {
+      "provision_ref": "24",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "24",
+      "title": "Minimum Tax",
+      "content": "Minimum Tax"
+    },
+    {
+      "provision_ref": "6",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "6",
+      "title": "Withholding Taxes and Prepayment of Tax on Profit",
+      "content": "Withholding Taxes and Prepayment of Tax on Profit"
+    },
+    {
+      "provision_ref": "25",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "25",
+      "title": "General Withholding Tax",
+      "content": "General Withholding Tax"
+    },
+    {
+      "provision_ref": "26",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "26",
+      "title": "Withholding on Payments to Foreign Persons",
+      "content": "Withholding on Payments to Foreign Persons"
+    },
+    {
+      "provision_ref": "27",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "27",
+      "title": "Withholding Tax as Final Tax",
+      "content": "Withholding Tax as Final Tax"
+    },
+    {
+      "provision_ref": "28",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "28",
+      "title": "Prepayment of the Tax on Profit",
+      "content": "Prepayment of the Tax on Profit"
+    },
+    {
+      "provision_ref": "7",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "7",
+      "title": "Obligations of Taxpayers",
+      "content": "Obligations of Taxpayers"
+    },
+    {
+      "provision_ref": "29",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "29",
+      "title": "General Obligations of Real or Simplified Regime System Taxpayers",
+      "content": "General Obligations of Real or Simplified Regime System Taxpayers"
+    },
+    {
+      "provision_ref": "30",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "30",
+      "title": "Obligation of Estimated Regime System Taxpayers",
+      "content": "Obligation of Estimated Regime System Taxpayers"
+    },
+    {
+      "provision_ref": "31",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "31",
+      "title": "Obligations of Withholding Agents",
+      "content": "Obligations of Withholding Agents"
+    },
+    {
+      "provision_ref": "32",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "32",
+      "title": "Obligations of Persons Required to Make Prepayments of the Tax on Profit",
+      "content": "Obligations of Persons Required to Make Prepayments of the Tax on Profit"
+    },
+    {
+      "provision_ref": "8",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "8",
+      "title": "Sources of Income",
+      "content": "Sources of Income"
+    },
+    {
+      "provision_ref": "33",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "33",
+      "title": "Income from Cambodian Sources",
+      "content": "Income from Cambodian Sources"
+    },
+    {
+      "provision_ref": "34",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "34",
+      "title": "Income from Foreign Sources",
+      "content": "Income from Foreign Sources"
+    },
+    {
+      "provision_ref": "35",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "35",
+      "title": "Determination of Source",
+      "content": "Determination of Source"
+    },
+    {
+      "provision_ref": "9",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "9",
+      "title": "Calculation of Annual Tax Due",
+      "content": "Calculation of Annual Tax Due"
+    },
+    {
+      "provision_ref": "36",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "36",
+      "title": "Foreign Tax Credit",
+      "content": "Foreign Tax Credit"
+    },
+    {
+      "provision_ref": "37",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "37",
+      "title": "Determination of the Liability to the Tax on Profit",
+      "content": "Determination of the Liability to the Tax on Profit"
+    },
+    {
+      "provision_ref": "38",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "38",
+      "title": "Determination of Tax Due or Tax Credit for the Tax Year",
+      "content": "Determination of Tax Due or Tax Credit for the Tax Year"
+    },
+    {
+      "provision_ref": "39",
+      "chapter": "Chapter 1: Provisions for the Tax on Profit",
+      "section": "39",
+      "title": "Determination of the Minimum Tax, and the Tax Due or the Tax Credit for the Tax Year",
+      "content": "Determination of the Minimum Tax, and the Tax Due or the Tax Credit for the Tax Year"
+    },
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "1",
+      "title": "General Provisions",
+      "content": "General Provisions"
+    },
+    {
+      "provision_ref": "40",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "40",
+      "title": "Charge to Tax",
+      "content": "Charge to Tax"
+    },
+    {
+      "provision_ref": "41",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "41",
+      "title": "Object of Tax",
+      "content": "Object of Tax"
+    },
+    {
+      "provision_ref": "42",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "42",
+      "title": "Definitions",
+      "content": "Definitions"
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "2",
+      "title": "Tax Exempt Salary",
+      "content": "Tax Exempt Salary"
+    },
+    {
+      "provision_ref": "43",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "43",
+      "title": "Salary of Diplomatic and Other Foreign Officials",
+      "content": "Salary of Diplomatic and Other Foreign Officials"
+    },
+    {
+      "provision_ref": "44",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "44",
+      "title": "Tax Exempt Income of Employees",
+      "content": "Tax Exempt Income of Employees"
+    },
+    {
+      "provision_ref": "3",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "3",
+      "title": "Monthly Tax Base, Monthly Taxable Salary and the Determination of the Monthly Tax",
+      "content": "Monthly Tax Base, Monthly Taxable Salary and the Determination of the Monthly Tax"
+    },
+    {
+      "provision_ref": "45",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "45",
+      "title": "Monthly Tax Base",
+      "content": "Monthly Tax Base"
+    },
+    {
+      "provision_ref": "46",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "46",
+      "title": "Monthly Taxable Salary",
+      "content": "Monthly Taxable Salary"
+    },
+    {
+      "provision_ref": "47",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "47",
+      "title": "Determination of the Monthly Tax of an Employee",
+      "content": "Determination of the Monthly Tax of an Employee"
+    },
+    {
+      "provision_ref": "48",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "48",
+      "title": "The Determination of the Tax on Fringe Benefits",
+      "content": "The Determination of the Tax on Fringe Benefits"
+    },
+    {
+      "provision_ref": "49",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "49",
+      "title": "Determination of the Tax on Salary for a Non-Resident Taxpayer",
+      "content": "Determination of the Tax on Salary for a Non-Resident Taxpayer"
+    },
+    {
+      "provision_ref": "50",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "50",
+      "title": "Foreign Tax Credit",
+      "content": "Foreign Tax Credit"
+    },
+    {
+      "provision_ref": "4",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "4",
+      "title": "Obligations of Employers and Employees",
+      "content": "Obligations of Employers and Employees"
+    },
+    {
+      "provision_ref": "51",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "51",
+      "title": "Cause of Tax Liability",
+      "content": "Cause of Tax Liability"
+    },
+    {
+      "provision_ref": "52",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "52",
+      "title": "Tax Debt and the Obligation to Withhold",
+      "content": "Tax Debt and the Obligation to Withhold"
+    },
+    {
+      "provision_ref": "53",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "53",
+      "title": "Payment of Tax Withheld",
+      "content": "Payment of Tax Withheld"
+    },
+    {
+      "provision_ref": "54",
+      "chapter": "Chapter 2: Provisions For The Tax On Salary",
+      "section": "54",
+      "title": "Tax Withholding, Record Keeping and Reporting Requirements",
+      "content": "Tax Withholding, Record Keeping and Reporting Requirements"
+    },
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "1",
+      "title": "General Provisions",
+      "content": "General Provisions"
+    },
+    {
+      "provision_ref": "55",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "55",
+      "title": "Charge to Tax",
+      "content": "Charge to Tax"
+    },
+    {
+      "provision_ref": "56",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "56",
+      "title": "Definitions",
+      "content": "Definitions"
+    },
+    {
+      "provision_ref": "57",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "57",
+      "title": "Non Taxable Supplies",
+      "content": "Non Taxable Supplies"
+    },
+    {
+      "provision_ref": "58",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "58",
+      "title": "Non Taxable Supplies for Diplomatic Missions and International Organizations",
+      "content": "Non Taxable Supplies for Diplomatic Missions and International Organizations"
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "2",
+      "title": "General Principles for the Tax on Value Added",
+      "content": "General Principles for the Tax on Value Added"
+    },
+    {
+      "provision_ref": "59",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "59",
+      "title": "Taxable Person",
+      "content": "Taxable Person"
+    },
+    {
+      "provision_ref": "60",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "60",
+      "title": "Taxable Supply",
+      "content": "Taxable Supply"
+    },
+    {
+      "provision_ref": "61",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "61",
+      "title": "Taxable Value",
+      "content": "Taxable Value"
+    },
+    {
+      "provision_ref": "62",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "62",
+      "title": "Time of Supply",
+      "content": "Time of Supply"
+    },
+    {
+      "provision_ref": "63",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "63",
+      "title": "Location of Supply",
+      "content": "Location of Supply"
+    },
+    {
+      "provision_ref": "3",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "3",
+      "title": "Tax Rate and the Calculation of Tax",
+      "content": "Tax Rate and the Calculation of Tax"
+    },
+    {
+      "provision_ref": "64",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "64",
+      "title": "Tax Rate",
+      "content": "Tax Rate"
+    },
+    {
+      "provision_ref": "65",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "65",
+      "title": "Input Tax Credit and Non Taxable Supplies",
+      "content": "Input Tax Credit and Non Taxable Supplies"
+    },
+    {
+      "provision_ref": "66",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "66",
+      "title": "Determination of Tax",
+      "content": "Determination of Tax"
+    },
+    {
+      "provision_ref": "67",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "67",
+      "title": "Capital Assets that Cease to be used in the Business",
+      "content": "Capital Assets that Cease to be used in the Business"
+    },
+    {
+      "provision_ref": "68",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "68",
+      "title": "Necessary Documentation to Claim an Input Tax Credit",
+      "content": "Necessary Documentation to Claim an Input Tax Credit"
+    },
+    {
+      "provision_ref": "69",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "69",
+      "title": "Input Tax Not Allowed as a Tax Credit",
+      "content": "Input Tax Not Allowed as a Tax Credit"
+    },
+    {
+      "provision_ref": "4",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "4",
+      "title": "Payment of Tax",
+      "content": "Payment of Tax"
+    },
+    {
+      "provision_ref": "70",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "70",
+      "title": "The Monthly filing of the Value Added Tax Declaration",
+      "content": "The Monthly filing of the Value Added Tax Declaration"
+    },
+    {
+      "provision_ref": "71",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "71",
+      "title": "Treatment of Excess Credits",
+      "content": "Treatment of Excess Credits"
+    },
+    {
+      "provision_ref": "72",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "72",
+      "title": "Refunds for Exporters",
+      "content": "Refunds for Exporters"
+    },
+    {
+      "provision_ref": "73",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "73",
+      "title": "Refunds where Excess Credits Continue for Three Months or More",
+      "content": "Refunds where Excess Credits Continue for Three Months or More"
+    },
+    {
+      "provision_ref": "74",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "74",
+      "title": "Refunds to Diplomatic Missions and International Organizations",
+      "content": "Refunds to Diplomatic Missions and International Organizations"
+    },
+    {
+      "provision_ref": "75",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "75",
+      "title": "Liability for the Collection and Payment of Tax",
+      "content": "Liability for the Collection and Payment of Tax"
+    },
+    {
+      "provision_ref": "5",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "5",
+      "title": "Administrative Provisions",
+      "content": "Administrative Provisions"
+    },
+    {
+      "provision_ref": "76",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "76",
+      "title": "Registration",
+      "content": "Registration"
+    },
+    {
+      "provision_ref": "77",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "77",
+      "title": "Value Added Tax Invoice",
+      "content": "Value Added Tax Invoice"
+    },
+    {
+      "provision_ref": "78",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "78",
+      "title": "Failure to Issue Value Added Tax Invoice",
+      "content": "Failure to Issue Value Added Tax Invoice"
+    },
+    {
+      "provision_ref": "79",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "79",
+      "title": "Books, Records, and Information",
+      "content": "Books, Records, and Information"
+    },
+    {
+      "provision_ref": "80",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "80",
+      "title": "Special Rules for Imports",
+      "content": "Special Rules for Imports"
+    },
+    {
+      "provision_ref": "81",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "81",
+      "title": "Cessation of Business",
+      "content": "Cessation of Business"
+    },
+    {
+      "provision_ref": "82",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "82",
+      "title": "Transfer of Business",
+      "content": "Transfer of Business"
+    },
+    {
+      "provision_ref": "83",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "83",
+      "title": "Contracts Entered Into Before the Effective Date of this Tax",
+      "content": "Contracts Entered Into Before the Effective Date of this Tax"
+    },
+    {
+      "provision_ref": "84",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "84",
+      "title": "Tax Credit for Stocks of Goods",
+      "content": "Tax Credit for Stocks of Goods"
+    },
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter 4: Amendments to the Finance Act of 1994 and to the Amendments to the Finance Act of",
+      "section": "1",
+      "title": "Provisions for the change of the Specific Tax on Certain Merchandise to the Specific Tax",
+      "content": "on Certain Merchandise and Services"
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter 4: Amendments to the Finance Act of 1994 and to the Amendments to the Finance Act of",
+      "section": "2",
+      "title": "Provisions for the Change of the Tax on Turnover",
+      "content": "Provisions for the Change of the Tax on Turnover"
+    },
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "1",
+      "title": "General Provisions",
+      "content": "General Provisions"
+    },
+    {
+      "provision_ref": "87",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "87",
+      "title": "Object",
+      "content": "Object"
+    },
+    {
+      "provision_ref": "88",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "88",
+      "title": "Definitions",
+      "content": "Definitions"
+    },
+    {
+      "provision_ref": "89",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "89",
+      "title": "International Treaties",
+      "content": "International Treaties"
+    },
+    {
+      "provision_ref": "90",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "90",
+      "title": "Language Used in Tax Declarations and Tax Documents",
+      "content": "Language Used in Tax Declarations and Tax Documents"
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "2",
+      "title": "Rights and Obligations",
+      "content": "Rights and Obligations"
+    },
+    {
+      "provision_ref": "91",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "91",
+      "title": "Rights and Obligations of the Taxpayer",
+      "content": "Rights and Obligations of the Taxpayer"
+    },
+    {
+      "provision_ref": "92",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "92",
+      "title": "Powers and Obligations of the Tax Administration",
+      "content": "Powers and Obligations of the Tax Administration"
+    },
+    {
+      "provision_ref": "3",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "3",
+      "title": "Tax Administration",
+      "content": "Tax Administration"
+    },
+    {
+      "provision_ref": "93",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "93",
+      "title": "Responsibility for Tax Administration",
+      "content": "Responsibility for Tax Administration"
+    },
+    {
+      "provision_ref": "94",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "94",
+      "title": "Confidentiality of Tax Information",
+      "content": "Confidentiality of Tax Information"
+    },
+    {
+      "provision_ref": "95",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "95",
+      "title": "Delivery of Information to the Taxpayer",
+      "content": "Delivery of Information to the Taxpayer"
+    },
+    {
+      "provision_ref": "96",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "96",
+      "title": "Publicity and Explanation of Tax Law",
+      "content": "Publicity and Explanation of Tax Law"
+    },
+    {
+      "provision_ref": "97",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "97",
+      "title": "Incentives for the Efficient and Effective Collection of Tax",
+      "content": "Incentives for the Efficient and Effective Collection of Tax"
+    },
+    {
+      "provision_ref": "98",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "98",
+      "title": "The Keeping of Financial and other Supporting Documents",
+      "content": "The Keeping of Financial and other Supporting Documents"
+    },
+    {
+      "provision_ref": "99",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "99",
+      "title": "Right to Receive Information",
+      "content": "Right to Receive Information"
+    },
+    {
+      "provision_ref": "100",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "100",
+      "title": "Power of Investigation (without an advanced letter of notification)",
+      "content": "Power of Investigation (without an advanced letter of notification)"
+    },
+    {
+      "provision_ref": "101",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "101",
+      "title": "Requirement to Register",
+      "content": "Requirement to Register"
+    },
+    {
+      "provision_ref": "102",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "102",
+      "title": "Certificate of Registration and Tax Identification Number",
+      "content": "Certificate of Registration and Tax Identification Number"
+    },
+    {
+      "provision_ref": "103",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "103",
+      "title": "The Right of the Tax Administration to Register a Taxpayer",
+      "content": "The Right of the Tax Administration to Register a Taxpayer"
+    },
+    {
+      "provision_ref": "4",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "4",
+      "title": "Tax Declarations",
+      "content": "Tax Declarations"
+    },
+    {
+      "provision_ref": "104",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "104",
+      "title": "Preparation and Submission of the Tax Declaration",
+      "content": "Preparation and Submission of the Tax Declaration"
+    },
+    {
+      "provision_ref": "105",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "105",
+      "title": "Preparation and submission of the information declaration and other documents",
+      "content": "Preparation and submission of the information declaration and other documents"
+    },
+    {
+      "provision_ref": "106",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "106",
+      "title": "The Taxpayer’s Representative",
+      "content": "The Taxpayer’s Representative"
+    },
+    {
+      "provision_ref": "5",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "5",
+      "title": "Collection of Taxes",
+      "content": "Collection of Taxes"
+    },
+    {
+      "provision_ref": "107",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "107",
+      "title": "Payment of taxes",
+      "content": "Payment of taxes"
+    },
+    {
+      "provision_ref": "108",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "108",
+      "title": "Liability of Directors, Managers, or Owners",
+      "content": "Liability of Directors, Managers, or Owners"
+    },
+    {
+      "provision_ref": "6",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "6",
+      "title": "Power of the Tax Administration in Tax Collection",
+      "content": "Power of the Tax Administration in Tax Collection"
+    },
+    {
+      "provision_ref": "109",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "109",
+      "title": "Rights on the Properties of Taxpayers",
+      "content": "Rights on the Properties of Taxpayers"
+    },
+    {
+      "provision_ref": "110",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "110",
+      "title": "Reminder Letter of Notification for Tax Collection",
+      "content": "Reminder Letter of Notification for Tax Collection"
+    },
+    {
+      "provision_ref": "111",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "111",
+      "title": "Confiscation",
+      "content": "Confiscation"
+    },
+    {
+      "provision_ref": "112",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "112",
+      "title": "Protection of the Taxpayer",
+      "content": "Protection of the Taxpayer"
+    },
+    {
+      "provision_ref": "113",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "113",
+      "title": "The Freezing of Bank Accounts",
+      "content": "The Freezing of Bank Accounts"
+    },
+    {
+      "provision_ref": "114",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "114",
+      "title": "Stopping Export-Import Operations",
+      "content": "Stopping Export-Import Operations"
+    },
+    {
+      "provision_ref": "115",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "115",
+      "title": "Order Nullifying Permit and License",
+      "content": "Order Nullifying Permit and License"
+    },
+    {
+      "provision_ref": "7",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "7",
+      "title": "Tax Assessment",
+      "content": "Tax Assessment"
+    },
+    {
+      "provision_ref": "116",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "116",
+      "title": "Assessment of Tax",
+      "content": "Assessment of Tax"
+    },
+    {
+      "provision_ref": "117",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "117",
+      "title": "Tax Re-Assessment and Period of Tax Re-Assessment",
+      "content": "Tax Re-Assessment and Period of Tax Re-Assessment"
+    },
+    {
+      "provision_ref": "118",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "118",
+      "title": "Procedure for Tax Re-Assessment",
+      "content": "Procedure for Tax Re-Assessment"
+    },
+    {
+      "provision_ref": "119",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "119",
+      "title": "Burden of proof",
+      "content": "Burden of proof"
+    },
+    {
+      "provision_ref": "8",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "8",
+      "title": "Settlement of the Taxpayer’s Protest",
+      "content": "Settlement of the Taxpayer’s Protest"
+    },
+    {
+      "provision_ref": "120",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "120",
+      "title": "Rules for Administrative Protests",
+      "content": "Rules for Administrative Protests"
+    },
+    {
+      "provision_ref": "121",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "121",
+      "title": "Contents of the Administrative Protest by the Taxpayer",
+      "content": "Contents of the Administrative Protest by the Taxpayer"
+    },
+    {
+      "provision_ref": "122",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "122",
+      "title": "Decision by the Tax Administration",
+      "content": "Decision by the Tax Administration"
+    },
+    {
+      "provision_ref": "123",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "123",
+      "title": "Committee of Tax Arbitration",
+      "content": "Committee of Tax Arbitration"
+    },
+    {
+      "provision_ref": "124",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "124",
+      "title": "Appeal to the Court",
+      "content": "Appeal to the Court"
+    },
+    {
+      "provision_ref": "9",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "9",
+      "title": "Violations of Tax Provisions",
+      "content": "Violations of Tax Provisions"
+    },
+    {
+      "provision_ref": "125",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "125",
+      "title": "Negligence",
+      "content": "Negligence"
+    },
+    {
+      "provision_ref": "126",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "126",
+      "title": "Serious negligence",
+      "content": "Serious negligence"
+    },
+    {
+      "provision_ref": "127",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "127",
+      "title": "Tax evasion",
+      "content": "Tax evasion"
+    },
+    {
+      "provision_ref": "128",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "128",
+      "title": "Obstructing the Implementation of Tax Law",
+      "content": "Obstructing the Implementation of Tax Law"
+    },
+    {
+      "provision_ref": "129",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "129",
+      "title": "Criminal violation of tax law",
+      "content": "Criminal violation of tax law"
+    },
+    {
+      "provision_ref": "10",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "10",
+      "title": "Additional Tax",
+      "content": "Additional Tax"
+    },
+    {
+      "provision_ref": "130",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "130",
+      "title": "Additional tax",
+      "content": "Additional tax"
+    },
+    {
+      "provision_ref": "131",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "131",
+      "title": "Additional Tax for Underpayment of Tax",
+      "content": "Additional Tax for Underpayment of Tax"
+    },
+    {
+      "provision_ref": "132",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "132",
+      "title": "Additional Tax for Late Tax Payment",
+      "content": "Additional Tax for Late Tax Payment"
+    },
+    {
+      "provision_ref": "133",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "133",
+      "title": "Additional Tax for the Obstruction of the Implementation of Tax Law",
+      "content": "Additional Tax for the Obstruction of the Implementation of Tax Law"
+    },
+    {
+      "provision_ref": "11",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "11",
+      "title": "Criminal Violations",
+      "content": "Criminal Violations"
+    },
+    {
+      "provision_ref": "134",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "134",
+      "title": "Power to sue for criminal charges",
+      "content": "Power to sue for criminal charges"
+    },
+    {
+      "provision_ref": "135",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "135",
+      "title": "Tax evasion",
+      "content": "Tax evasion"
+    },
+    {
+      "provision_ref": "136",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "136",
+      "title": "Obstruction of the Implementation of Tax",
+      "content": "Obstruction of the Implementation of Tax"
+    },
+    {
+      "provision_ref": "137",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "137",
+      "title": "Aiding or Abetting",
+      "content": "Aiding or Abetting"
+    },
+    {
+      "provision_ref": "138",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "138",
+      "title": "To reveal the confidentiality",
+      "content": "To reveal the confidentiality"
+    },
+    {
+      "provision_ref": "139",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "139",
+      "title": "Violations by the tax officials",
+      "content": "Violations by the tax officials"
+    },
+    {
+      "provision_ref": "140",
+      "chapter": "Chapter 5: Provisions on Tax Rules and Procedures",
+      "section": "140",
+      "title": "Compensation for misconduct or mistake",
+      "content": "Compensation for misconduct or mistake"
+    },
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "1",
+      "title": "General Provisions",
+      "content": "General Provisions"
+    },
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "1",
+      "title": "Change to Tax",
+      "content": "The provisions for the tax on profit as stated in the Finance Act of 1994 promulgated by the Royal Kram\n\nNo. 02NS dated 28 December 1993, the Amendment to the Finance Act of 1994 promulgated by the\n\nRoyal Kram No. 08NS dated 30 November 1994, the Finance Act of 1995 promulgated by Royal Kram\n\nNo. 11NS94 dated 31 December 1994, and the Amendment to the Finance Act of 1995 promulgated\n\nby Royal Kram No. CS/RKM/0995/01 dated 01 September 1995 shall be amended as follows for the\n\nbenefit of the State budget."
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "2",
+      "title": "Object of the Tax",
+      "content": "The tax of profits is the debt of a resident person on income from Cambodian sources and income from\nforeign sources and of a non-resident person on income from Cambodian sources."
+    },
+    {
+      "provision_ref": "3",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "3",
+      "title": "Definitions",
+      "content": "For the purposes of the tax provisions:\n\n1. The term “resident taxpayer” means:\n\na. any physical person who is domiciled in or has a principal place of abode in, the Kingdom of\n\nCambodia, or who is present in the Kingdom of Cambodia on more than 182 days during the calendar\n\nyear;\n\nb. any legal person or pass-through organized or managed in the Kingdom of Cambodia, or having\n\nits principal place of business in the Kingdom of Cambodia. A permanent establishment shall be\n\nconsidered a resident legal person with respect to its Cambodian source income only.\n\n2. The term “non-resident” means not a resident of Cambodia.\n\n3. The term “legal person” means any enterprise or organization carrying on a business whether or\n\nnot officially recognized by the competent institutions of the Royal Government. The term “legal person”\n\nincludes any government institution, religious organization, charitable organization, or non-profit\n\norganization. For a non-resident person, the term “legal person” means any permanent establishment in\n\nthe Kingdom of Cambodia. The term “legal person” does not include a pass-through or a sole\n\nproprietorship.\n\n4. The term “permanent establishment” means a fixed place of business in the Kingdom of\n\nCambodia, the branch of a foreign company or an agent resident in the Kingdom of Cambodia, through\n\nwhich the non-resident person carries on their business. The term “permanent establishment” also\n\nincludes any other association or connection through which a non-resident person engages in economic\n\nactivity in the Kingdom of Cambodia.\n\n5. The term “pass-through” means a general partnership with up to 10 resident individual partners\n\nin which the proportional sharing by the partners of items of capital, profit, and loss meet the criteria\n\nwhich shall be determined by sub-decree. In this definition, a “pass-through” cannot be a member of\n\nanother partnership and does not include a corporation, a permanent establishment, or a sole\n\nproprietorship.\n\n6. The term “sole proprietorship” means a business enterprise owned 100 percent by one physical\n\nperson. In this definition, a husband and wife and their dependent children shall be treated as one\n\nphysical person.\n\n7. The term “business” means a person’s economic activity the aim of which is to derive income\n\nfrom the production and sale of goods, the supply of services, the lease, rental or sale of property, or\n\nany other activity.\n\n8. The term “dividend” means any distribution of money or property that a legal person distributes\n\nto a shareholder with respect to the shareholder’s equity interest in such legal person, with the\n\nexception of stock dividends and distributions in complete liquidation of the company. Whether or not a\n\ndistribution is a dividend shall be determined under the preceding condition without regard to whether\nor not the legal person has current or accumulated income or profits or earnings.\n\n9. The term “shareholder” means any person owning an equity interest in a legal person. For the\n\npurposes of this tax a legal person which is not a corporation shall be treated as if it were a corporation\n\nand any person who holds an equity interest in, or may otherwise gain income or profit as a participant\n\nin such a legal person shall be treated as a shareholder of such legal person.\n\n10. The term “investment enterprise” means an enterprise that the Council for the Development of\n\nCambodia has recognized as an investment enterprise and that has registered with the tax\nadministration.\n\n11. The term “related person” means:\n\na. a member of the taxpayer’s family;\n\nb. an enterprise which controls or is controlled by, or is under common control with, the taxpayer.\n\nThe term “Control” means the ownership of 51 percent or more in the value or voting power of the\n\nequity interests in the enterprise. For determining the degree of control of a taxpayer who is a physical\n\nperson, shall be taken into consideration all equity interest owned by the taxpayer and those owned\n\ndirectly or indirectly by the taxpayer’s spouse."
+    },
+    {
+      "provision_ref": "4",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "4",
+      "title": "Tax Regimes",
+      "content": "The tax regimes are as follows:\n\n1. The assessment of the tax on profit shall be made according to the real regime, simplified\n\nregime, or estimated regime system of taxation.\n\n2. The rules and procedures for the assignment of taxpayers to one of the three regimes as above\n\nwill be determined by sub-decree and shall be based on the form of the business, the type of business\n\nactivity, and the level of turnover."
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "2",
+      "title": "Taxable Profit and Tax Rates",
+      "content": "Taxable Profit and Tax Rates"
+    },
+    {
+      "provision_ref": "5",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "5",
+      "title": "Tax Year",
+      "content": "The tax year shall be determined as follows:\n\n1. The tax on profit for the real regime system of taxation is calculated from the balance sheet\n\nresults realized in the previous tax year.\n\n2. If there is no closing balance sheet during any one year the tax to be paid for the following year\n\nis assessed on the profit made in the previous period from the end of the last taxable period. For new\n\nenterprises the calculation is made from the start of business operations up to the 31st of December of\n\nthe year for which the tax is calculated.\n\n3. If many successive balance sheets are drawn up during the same year the results of these\n\nbalance sheets are added up to have the base for the tax to be paid.\n\n4. The tax on profit for the simplified and estimate regime systems of taxation shall be calculated\n\non a cash method of accounting on the past calendar year.\n\n5. Directives on the reporting and the filing of a final declaration for enterprises that cease\n\nactivities, are reorganized, or are sold or transferred during the calendar year shall be determined by\n\nprakas of the Ministry of Economy and Finance."
+    },
+    {
+      "provision_ref": "6",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "6",
+      "title": "Accounting Rules",
+      "content": "Accounting rules shall be determined as follows:\n\n1. For a taxpayer under the simplified regime system of taxation using cash method of accounting,\n\nincome is reported in the year that cash or other property is actually received even if as payment\npertaining to other years, and expenses or deductions are taken in the year in which the expenses or\n\nother items are actually paid except for prepaid expenses and depreciation allowances.\n\n2. For a taxpayer under the real regime system of taxation using the General Chart of Accounts\n\nmethod of accounting, income is reported in the year it is earned whether that income is already paid\n\nor not. The deduction for an expense may be taken when all facts determining the taxpayer’s liability\n\nhave occurred, the results of economic activities with respect to the item has occurred, and the amount\n\nof the taxpayer’s liability can be actually determined.\n\n3. For real regime taxpayers, expenses incurred to a related person under the simplified regime\n\nsystem of taxation is not allowed as a deduction before actual payment.\n\n4. Domestic banks and savings institutions shall be allowed to establish provisions for bad debts for\n\nthe determination of the taxable profit. The rules and procedures on deductions shall be provided by\n\nsub-decree."
+    },
+    {
+      "provision_ref": "7",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "7",
+      "title": "Taxable Profit",
+      "content": "The taxable profit is the net profit obtained from all the results of all types of operations realized by the\n\nenterprise including capital gains from the sale of various parts of the asset during the operation or at\nthe close of the business, as well as income from financial or investment operations and interest, rental,\n\nand royalty income."
+    },
+    {
+      "provision_ref": "8",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "8",
+      "title": "Determination of Taxable Profit",
+      "content": "The taxable profit is made up of the excess gross product realized on the expenditure that is made with\nthe view of acquiring and preserving profit."
+    },
+    {
+      "provision_ref": "9",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "9",
+      "title": "Income Exempt from Tax",
+      "content": "Income exempt from tax shall be as follows:\n\n1. Except for contrary provisions and for income that is taxable under article 22 of this law the tax\n\non profits shall not apply to:\n\na. the income of the Royal Government and institutions of the Royal Government;\n\nb. the income of any organization that are:\n\n· organized and operated exclusively for religious, charitable, scientific, literary, or educational\n\npurposes;\n\n· no part of the assets or earnings of which is used for any private interest;\n\nc. the income of any labor organization, or any chamber of commerce, industry, or agriculture, in\n\nthe case where the income of these organizations is not used for the private benefit of any shareholder\nor physical person.\n\nd. The profit from the sale of agricultural produce that a person who is not a real regime system of\n\ntaxation taxpayer has produced by himself whether the produce is sold in its raw state or after\ntransformations that are an extension of habitual agricultural work. Operations by industrial means\n\nincluding transformation, preservation, and commercial packaging are not considered part of habitual\n\nagricultural work.\n\n2. The Ministry of Economy and Finance shall define by prakas the procedures for the application\n\nfor tax exemptions, the loss of tax exemptions, for tax declarations, and for registration."
+    },
+    {
+      "provision_ref": "10",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "10",
+      "title": "Determination of Income of a Pass-Through",
+      "content": "The income of a pass-through shall be determined as follows:\n\n1. With regard to a pass-through, each member in determining one’s income for a taxable year shall\n\ntake into account separately one’s distributive share of the items of income, gain, loss, deduction, credit,\n\nand charitable contributions for such year. For this purpose each item shall retain its character and shall\n\nbe treated as distributed during the taxable year whether or not actually distributed. The loss to be\n\ncarried forward will be determined after the items have been distributed.\n\n2. The rules for determining the amount distributed, the treatment of contributions, and the\n\nadjustment to each member’s base distributive share in the pass-through in any taxable year shall be\n\ndetermined by sub-decree."
+    },
+    {
+      "provision_ref": "3",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "3",
+      "title": "Deductions",
+      "content": "Deductions"
+    },
+    {
+      "provision_ref": "11",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "11",
+      "title": "Allowable Deductions",
+      "content": "Allowable deductions shall be as follows:\n\n1. Except as provided in articles 12 through 18 of this law, expenses that are allowed as a\n\ndeduction include expenses that the taxpayer has paid or incurred during the tax year to carry on a\nbusiness.\n\n2. Any rent, interest, compensation, payments, or fees paid to an officer or director of an\n\nenterprise, a partner, a member of a pass-through, a member of the taxpayer’s family or other related\n\nperson where there is proof that the payment is for services actually performed and to the extent that\nsuch payment is reasonable.\n\n3. Amounts paid on new buildings and other tangible assets, permanent improvements or\n\nbetterments including any construction or acquisition period interest and taxes. These amounts are to\n\nbe recorded in the relevant asset account and shall be deductible as depreciation as provided in article\n13 of this law."
+    },
+    {
+      "provision_ref": "12",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "12",
+      "title": "Interest Expense",
+      "content": "There shall be allowed as a deduction interest expenses paid or incurred by the taxpayer during the tax\n\nyear to carry on a business but not in excess of an amount equal to the sum of the taxpayer’s interest\nincome and 50 percent of the taxpayer’s net noninterest income in the tax year.\n\nThe “net noninterest income” is the gross income other than interest income, reduced by the allowable\n\nexpenses except for interest expense.\n\nAny interest expense remaining from the above mentioned deduction shall be treated as an interest\n\nexpense for the next tax year and the deduction shall be made according to the content of this same\narticle."
+    },
+    {
+      "provision_ref": "13",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "13",
+      "title": "Depreciation of Tangible Property",
+      "content": "Conditions for the depreciation of tangible property are as follows:\n\n1. The allowance for depreciation shall be calculated using the straight-line method or the declining\n\nbalance method. Depreciable tangible property is tangible property used\n\nin a business which is likely to lose value because of use or obsolescence. Land is not\n\ndepreciable property.\n\n2. All tangible property shall be divided into four categories.\n\na. Category 1 shall include buildings and their basic components. Each asset in this category shall be\n\ndepreciated according to the straight-line method at a rate of 5 percent per year.\n\nb. Category 2 shall include property having a useful life of up to 4 years and have a straight line\n\ndepreciation rate of 25 percent on each property.\n\nc. Category 3 shall include property having a useful life of greater than four years through eight\n\nyears and have a straight line depreciation rate of 12.5 percent on each property.\n\nd. Category 4 shall include all other tangible property and have a straight line depreciation rate of\n\n10 percent on each property.\n\n3. Those taxpayers electing the declining balance method of depreciation shall use a rate of\n\ndepreciation equal to 200 percent of the straight line method rate and shall apply it to the aggregate\n\nremaining undepreciated value of all assets in each category. The declining balance method shall be\n\nallowed only for category 2, 3, and 4 property.\n\n4. Enterprises under the Law on Investment shall use the straight line method for all categories.\n\n5. Procedures for establishing property categories, adding a new asset to a category, disposing of an\n\nasset from a category, and the treatment of repairs and various expenses shall be determined by sub-\n\ndecree.\n\n6. A taxpayer subject to the tax on profit prior to 1 January 1997 must make an irrevocable\n\nelection to depreciate either by the straight line method or the declining balance method the remaining\nundepreciated value of property by 31 December 1997. For a new taxpayer the election must be made\n\nby the 31st of December of the year of registration."
+    },
+    {
+      "provision_ref": "14",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "14",
+      "title": "Depreciation of Intangible Property",
+      "content": "For intangible property including patents, copyrights, drawings, models, and franchises, having a limited\n\nlife the depreciation rate on each property shall be calculated on the life of that property according to\n\nthe straight line method of depreciation. If the life of the intangible cannot be determined the annual\n\ndepreciation deduction shall be at the rate of 10 percent of the value of the intangible property."
+    },
+    {
+      "provision_ref": "15",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "15",
+      "title": "Depletion of Natural Resources",
+      "content": "Depletion of natural resources shall be determined as follows:\n\n1. The allowance for the depletion of any natural resource, including any oil and gas, shall be\n\ndetermined as follows.\n\na. All exploration and development costs, including interest attributable to these costs, shall be\n\nadded to the asset account of the resource.\n\nb. The amount of the depletion for each natural resource deductible for the tax year shall be\n\ndetermined by multiplying the balance of the account for the natural resource with the ratio of the\n\nquantity produced from the natural resource during the year to the estimated total production from the\nnatural resource.\n\n2. Procedures for the determination of the estimated total production shall be provided by sub-\n\ndecree."
+    },
+    {
+      "provision_ref": "16",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "16",
+      "title": "Charitable Contributions",
+      "content": "A deduction shall be allowed for charitable contributions to an organization as provided in article 9 of\n\nthis law. But it shall not exceed 5 percent of taxable profit determined before taking the charitable\n\ncontribution deduction.\n\nThe criteria for charitable contributions shall be determined by sub-decree."
+    },
+    {
+      "provision_ref": "17",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "17",
+      "title": "Carry Forward of Losses",
+      "content": "In case of a loss in any one tax year, this loss is considered as a charge to the following tax year and\n\nshall be deducted from the profit realized in that following year. If this profit is not sufficient to\n\ndefinitively settle it, the remaining part of the loss is carried over successively to following tax years until\n\nthe fifth tax year.\n\nWhen losses occur in more than one year, this article shall be applied to the losses in the order in which\n\nthey arose."
+    },
+    {
+      "provision_ref": "18",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "18",
+      "title": "Allocation of Income and Deductions Among Taxpayers",
+      "content": "In the case of two or more enterprises, whether incorporated or organized in or outside of the Kingdom\n\nof Cambodia, which are under common ownership, the tax administration may as may be necessary\n\ndistribute, gross income, deductions, or other benefits among such enterprises and their owners in\n\norder to prevent the avoidance or evasion of taxes or to clearly reflect the income of such enterprises,\n\nor their owners.\n\nFor purposes of this article, two or more enterprises are under common ownership if a person owns 20\n\npercent or more in the value or the equity interests of each enterprise."
+    },
+    {
+      "provision_ref": "19",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "19",
+      "title": "Not Allowed as Deductions",
+      "content": "For the provisions for the Tax on Profit, expenses that shall not be allowed as a deduction are:\n\n1. Any expense on activities generally considered to be amusement, recreation, or entertainment or\n\nthe use of any means in connection with such an activity.\n\n2. Personal living or family expenses except for fringe benefits in cash or in kind subject to\n\nwithholding tax according to the provisions for the Tax on Salary,\n\n3. Any tax imposed by the provisions for the Tax on Profit or withholding tax imposed by the\n\nprovisions for the Tax on Salary.\n\n4. For the loss on any sale or exchange of property, directly or indirectly, between related persons.\n\n5. For any expense except for expenses already incurred and for which the taxpayer can establish\n\nthe amount of the expense, and the business purpose of the expense in a manner as determined by\n\nsub-decree."
+    },
+    {
+      "provision_ref": "4",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "4",
+      "title": "Tax Rates and Tax Due",
+      "content": "Tax Rates and Tax Due"
+    },
+    {
+      "provision_ref": "20",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "20",
+      "title": "Determination of Tax Due",
+      "content": "The tax rates on the annual profit are as follows:\n\n1. 20 percent for the profit realized by a legal person.\n\n2. 30 percent for profit realized under an oil or natural gas production sharing contract and the\n\nexploitation of natural resources including timber, ore, gold, and precious stones.\n\n3. 9 percent for an investment enterprise after the period of tax exemption.\n\n4. 0 percent for an investment enterprise during the period of tax exemption.\n\n5. According to the progressive tax rate by tranche for the table below for the profit realized by the\n\nphysical person and the distributive share to each member of a pass-through that is not classified as a\n\nlegal person.\n\nParts of the annual taxable profit Tax rate\n\nFrom 0 to 6,000,000 Riels 0%\n\nFrom 6,000,001 to 15,000,000 Riels 5%\n\nFrom 15,000,001 to 102,000,000 Riels 10%\n\nFrom 102,000,001 to 150,000,000 Riels 15%\n\nFrom greater than 150,000,000 20%"
+    },
+    {
+      "provision_ref": "21",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "21",
+      "title": "Tax on Insurance Companies",
+      "content": "The tax on an insurance company shall be determined as follows:\n\n1. For an enterprise having principal activity in the insurance or reinsurance of life, property, or\n\nother risks, the tax on profit shall be determined as follows:\n\na. 5 percent of the gross premiums received in the tax year for the insurance or reinsurance of risk\n\nin the Kingdom of Cambodia,\n\nb. according to the rates in article 20 of this law for other of activities that are not insurance of\n\nreinsurance.\n\n2. The rules and procedures for the payment of the tax on profit for an insurance company shall be\n\ndetermined by prakas of the Ministry of Economy and Finance."
+    },
+    {
+      "provision_ref": "22",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "22",
+      "title": "Tax on Unrelated Business Profit",
+      "content": "For an unrelated business the tax on profit shall be determined as follows:\n\n1. The tax on profit shall be fixed at 20 percent of taxable income from unrelated business income\n\nof organizations as stated in article 9 of this law.\n\n2. For purposes of the tax on profit, the term “unrelated business taxable income” is the gross\n\nincome realized from an unrelated business regularly carried on by any organization, reduced by the\n\ndeductions which are directly related to the carrying on of such business and which are allowed by the\nprovisions of tax on profit.\n\n3. The term “unrelated business” means any commercial or industrial business, or any other\n\nbusiness of the organization aiming to obtain profit or funds and which are not substantially related to\nthe purpose or function constituting the basis for tax exemption as stated in article 9 of this law."
+    },
+    {
+      "provision_ref": "23",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "23",
+      "title": "Advanced Tax on Dividend Distributions",
+      "content": "The advanced tax on dividend distributions shall be determined as follows:\n\n1. If an enterprise distributes dividends to its domestic and foreign shareholders during the tax\n\nyear, it shall withhold and pay as tax an amount equal to the product of the amount of the dividend\n\ngrossed up by the tax on profit rate and multiplies by the appropriate annual tax rate as stated in article\n20 of this law.\n\n2. The above mentioned withheld tax shall become a tax credit against the tax on profit of the\n\ndividend distributing enterprise for the tax year in which the withholding takes place. If the tax credit\n\nexceeds tax on profit such excess shall be carried forward and shall become a tax credit for the\nfollowing year. The tax withheld on dividend distributions made by an insurance enterprise taxable\n\nunder article 21 of this law cannot be used for tax credit.\n\n3. An enterprise (hereinafter called the “first enterprise”) owning 20 percent or more in value of the\n\nequity in a second enterprise shall establish a dividend account. Whenever the first enterprise receives a\n\ndividend on which the tax has been paid from the second enterprise it shall record the amount of that\ndividend into its dividend account. When the first enterprise subsequently distributes dividends to its\n\nshareholders the amount distributed which are taken out of the dividend account shall not be subject to\nwithholding tax under paragraph 1 of this article.\n\n4. A physical person or enterprise receiving a dividend from an enterprise required to withhold tax\n\nunder paragraph 1 of this article or a dividend from a dividend account described in paragraph 3 of this\n\narticle shall not include such dividend in income."
+    },
+    {
+      "provision_ref": "5",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "5",
+      "title": "Other Taxes",
+      "content": "Other Taxes"
+    },
+    {
+      "provision_ref": "24",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "24",
+      "title": "Minimum Tax",
+      "content": "A minimum tax is imposed on taxpayers subject to the real regime system of taxation. The minimum tax\n\nis a separate and distinct tax from the tax on profit. This tax is payable by a taxpayer subject to the real\n\nregime system of taxation even if the taxpayer has been granted the status of an investment enterprise.\n\nThe minimum tax is imposed at the rate of 1 percent of the annual turnover inclusive of all taxes and is\n\npayable at the time of the annual liquidation of the tax on profit.\n\nThe minimum tax may be reduced by the annual tax on profit that is actually paid according to the rules\nfound in articles 37, 38, and 39 of this law."
+    },
+    {
+      "provision_ref": "6",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "6",
+      "title": "Withholding Taxes and Prepayment of Tax on Profit",
+      "content": "Withholding Taxes and Prepayment of Tax on Profit"
+    },
+    {
+      "provision_ref": "25",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "25",
+      "title": "General Withholding Tax",
+      "content": "The general withholding tax shall be determined as follows:\n\n1. Any resident payor making any payment in cash or in kind to a resident person shall withhold,\n\nand pay as tax, an amount according to the below mentioned rates which are applied to the amount\n\npaid before withholding the tax:\n\na. The rate of 15 percent on:\n\n· income received by a physical person from the performance of services including management,\n\nconsulting, and similar services;\n\n· royalties for intangibles and interests in minerals, oil or natural gas, and interest paid to a\n\nphysical person or an enterprise except interest paid to a domestic bank or savings institution.\n\nb. The rate of 10 percent on the income from the rental of movable and immovable property.\n\nc. The rate of 5 percent on interest paid by a domestic bank or savings institution to a resident\n\nphysical person having a non-fixed term savings account.\n\n2. The withholding in this article shall not apply to the payment of tax exempt income as stated in"
+    },
+    {
+      "provision_ref": "9",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "9",
+      "title": "of this law.",
+      "content": "3. For purposes of this article and article 26 of this law, the term “resident payor” means:\n\na. any resident enterprise or pass-through;\n\nb. any physical person, but only with respect to payments made by such physical person in carrying\n\non a business in the Kingdom of Cambodia."
+    },
+    {
+      "provision_ref": "26",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "26",
+      "title": "Withholding on Payments to Foreign Persons",
+      "content": "A resident payor making any payment of Cambodian source income to a non-resident person shall\n\nwithhold, and pay as tax, an amount equal to 15 percent of the payment before withholding.\n\nThis article shall not apply to dividends as stated in article 23 of this law."
+    },
+    {
+      "provision_ref": "27",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "27",
+      "title": "Withholding Tax as Final Tax",
+      "content": "The tax withheld on distributions under article 23 of this law, on payments to a resident physical person\n\nunder article 25 of this law, and on payments to a non-resident person under article 26 of this law shall\n\nbe considered the final tax on the recipients of the payments or distributions described in those articles."
+    },
+    {
+      "provision_ref": "28",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "28",
+      "title": "Prepayment of the Tax on Profit",
+      "content": "An enterprise liable to the tax on profit according to the real regime system of taxation including an\ninvestment enterprise liable to the tax on profit at the rate of 9 percent, has the obligation to make a\n\nmonthly prepayment of the tax on profit at the rate of 1 percent of turnover inclusive of all types of\n\ntaxes realized in the previous month. This prepayment will be deducted from the tax on profit at the\n\nannual liquidation of the tax."
+    },
+    {
+      "provision_ref": "7",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "7",
+      "title": "Obligations of Taxpayers",
+      "content": "Obligations of Taxpayers"
+    },
+    {
+      "provision_ref": "29",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "29",
+      "title": "General Obligations of Real or Simplified Regime System Taxpayers",
+      "content": "Real or simplified regimes system taxpayers have the obligations:\n\n1. All taxpayers liable to the tax on profits who must pay taxes according to the real regime or\n\nsimplified regime system of taxation shall send every year to the tax administration a declaration of the\nprofit they have realized in the previous tax year. This declaration must absolutely be registered in the\n\nperiod of 3 months after the end of the tax year.\n\n2. Real regime system taxpayers must submit to the tax administration a tax declaration to which is\n\nattached:\n\na. Balance sheet\n\nb. Results Account\n\nc. Tables of complementary information.\n\n3. Simplified regime system taxpayers must submit to the tax administration a tax declaration with\n\nattached documents in the form provided by the tax administration.\n\n4. An enterprise with a loss must submit a tax declaration in the same manner and period of time."
+    },
+    {
+      "provision_ref": "30",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "30",
+      "title": "Obligation of Estimated Regime System Taxpayers",
+      "content": "Estimated regime system taxpayers have the obligations:\n\n1. The taxpayer subject to estimated regime system of taxation must submit the tax declaration to\n\nthe tax administration every year by October 31, in the form provided by the tax administration.\n\n2. The amount of estimated profit is determined by the tax administration after verification and\n\nconsultation with the businessman or his representative. This estimated profit is calculated according to\n\nthe profit rate with consideration to the type and activities of the business which shall be determined\nby Prakas of the Ministry of Economy and Finance.\n\n3. This tax level on estimated profit shall be kept constant for a period of 3 months, 6 months or 1\n\nyear.\n\n4. The taxpayer subject to the tax on profit under estimated regime system of taxation shall pay\n\nthis tax every month at the time fixed by the tax administration."
+    },
+    {
+      "provision_ref": "31",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "31",
+      "title": "Obligations of Withholding Agents",
+      "content": "The person or designated payor who withholds tax under articles 25, and 26 of this law, or withhold tax\n\non dividends under article 23 of this law shall submit a tax declaration and pay the tax withheld to the\n\ntax administration in the form as specified by the tax administration by the 15th day of the month\n\nfollowing the month in which the withholding is made."
+    },
+    {
+      "provision_ref": "32",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "32",
+      "title": "Obligations of Persons Required to Make Prepayments of the Tax on Profit",
+      "content": "Persons required to make prepayments for the tax on profit shall submit a tax declaration and pay the\n\nprepayment of the tax on profit to the tax administration in the form as specified by the tax\nadministration by the 15th day of the month following the month in which the liability arose."
+    },
+    {
+      "provision_ref": "8",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "8",
+      "title": "Sources of Income",
+      "content": "Sources of Income"
+    },
+    {
+      "provision_ref": "33",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "33",
+      "title": "Income from Cambodian Sources",
+      "content": "Except for contrary provisions in this law, the income as below shall be treated as from sources within\n\nthe Kingdom of Cambodia:\n\n1. interest paid by a resident enterprise or resident pass-through, or a governmental institution of\n\nthe Kingdom of Cambodia;\n\n2. dividends distributed by a resident enterprise of the Kingdom of Cambodia;\n\n3. income from services performed in the Kingdom of Cambodia;\n\n4. income from the rental of movable or immovable property for use in the Kingdom of Cambodia;\n\n5. royalties from the use, or right to use intangible property in the Kingdom of Cambodia;\n\n6. gain from the sale of immovable property located in the Kingdom of Cambodia or from the\n\ntransfer of any interest in immovable property situated in the Kingdom of Cambodia;\n\n7. gain from the sale of movable property, other than inventory, where the seller is a resident of\n\nthe Kingdom of Cambodia;\n\n8. premiums from the insurance or reinsurance of risks in the Kingdom of Cambodia."
+    },
+    {
+      "provision_ref": "34",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "34",
+      "title": "Income from Foreign Sources",
+      "content": "The definition of foreign source income is obtained by taking the income definition as stated in article\n33 of this law and substituting the term “a country other than the Kingdom of Cambodia” for the term\n\n“the Kingdom of Cambodia”"
+    },
+    {
+      "provision_ref": "35",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "35",
+      "title": "Determination of Source",
+      "content": "Where there is insufficient information to determine the source of income, or where the rules set forth\n\nso far cannot clearly reflect the income is from any one source the tax administration is the one to\ndecide on the source of that income."
+    },
+    {
+      "provision_ref": "9",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "9",
+      "title": "Calculation of Annual Tax Due",
+      "content": "Calculation of Annual Tax Due"
+    },
+    {
+      "provision_ref": "36",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "36",
+      "title": "Foreign Tax Credit",
+      "content": "A resident taxpayer who has received income from foreign sources and who has paid taxes according to\n\nforeign tax law shall receive a tax credit for deduction from the tax on profit to be paid in the Kingdom\n\nof Cambodia under the condition that there is presentation of documents confirming this tax payment\nabroad.\n\nIn order to calculate the tax to be paid in the Kingdom of Cambodia before deduction of this tax credit,\n\nthe total amount of income received from Cambodian sources and foreign sources shall be taken into\naccount.\n\nThe tax credit is determined separately for the tax paid by a Cambodian resident in each foreign\ncountry. But, the tax credit to be allowed for deduction in the tax year is the smaller of:\n\na. the tax amount actually paid in a foreign country,\n\nb. the amount obtained by multiplying the total tax on profit from all sources for the same period\n\ncalculated according to the tax rate in article 20 of this law with the ratio of income received in that\n\nforeign country to the total income from all sources.\n\nThe foreign tax credit is possible only if the resident taxpayer has complied with the formalities and\n\nsupplied various documents as specified by the tax administration especially certification from the\nforeign tax payor and from the foreign tax administration.\n\nIn the case where the tax credit exceeds the tax liability, the amount of the excess may be carried\n\nforward to be used in succeeding years up to the fifth counting from the year following year in which\n\nthe credit arose. In the case of tax credits in more than one year the credits must be taken in the order\n\nin which they arose."
+    },
+    {
+      "provision_ref": "37",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "37",
+      "title": "Determination of the Liability to the Tax on Profit",
+      "content": "The calculation of the liability to the tax on profit shall be as follows:\n\n1. calculate the total tax liability according to article 20 of this law,\n\n2. minus any article 36 foreign tax credit but not in excess of the tax liability in paragraph 1 of this\n\narticle,\n\n3. minus any tax paid by the taxpayer on dividend distributions under article 23 of this law but not\n\nin excess of any tax liability after the reduction for the foreign tax credit as in paragraph 2 of this article."
+    },
+    {
+      "provision_ref": "38",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "38",
+      "title": "Determination of Tax Due or Tax Credit for the Tax Year",
+      "content": "The determination of tax due or tax credit for the tax year shall be as follows:\n\n1. If the result from the calculation in article 37 of this law is greater than the sum of any\n\nwithholding tax made on the behalf of the taxpayer under article 25 of this law, and the prepayments\n\nfor the tax on profit made by the taxpayer for the tax year under article 28 of this law, the taxpayer\n\nshall pay the difference to the tax administration.\n\n2. If the result from the calculation in article 37 of this law is less than the sum of any withholding\n\ntax made on the behalf of the taxpayer under article 25 of this law, and the prepayments for the tax on\n\nprofit made by the taxpayer for the tax year under article 28 of this law, the taxpayer may, after\n\nproperly accounting for any minimum tax liability, apply for a refund of the difference, or carry the\n\ndifference forward to be used as a prepayment in the following year.\n\n3. Before making any tax payment under paragraph 1, or claiming any refund under paragraph 2,\n\nthe taxpayer must first determine any liability for the minimum tax according to the procedures as\nstated in article 39 of this law."
+    },
+    {
+      "provision_ref": "39",
+      "chapter": "Chapter 1: Provisions For The Tax On Profit",
+      "section": "39",
+      "title": "Determination of the Minimum Tax, and the Tax Due or the Tax Credit for the Tax Year",
+      "content": "The determination of the minimum tax, the tax due or the tax credit for the tax year shall be as follows:\n\n1. The taxpayer must pay the minimum tax at the time of the liquidation of the tax on profit. The\n\nminimum tax due may be reduced by any liability for the tax on profit under article 20 of this law for\n\nthe same tax year.\n\n2. If the liability for the tax on profit exceeds the liability for the minimum tax:\n\na. the taxpayer shall pay any tax due under article 37 of this law at the time of submission of the\n\ntax declaration;\n\nb. if the withholding in articles 25 and 28 of this law exceeds the minimum tax liability the taxpayer\n\nmay claim a tax credit;\n\nc. in the case as stated in paragraph 2 of this article, the taxpayer is not liable for minimum tax.\n\n3. If the liability for the tax on profit is less than the liability for the minimum tax:\n\na. the taxpayer’s tax credit under paragraph 2 of article 38 of this law will be reduced by the\n\ndifference;\n\nb. the amount by which the tax credit is reduced in complying with the sub-paragraph a of this\n\nparagraph, shall be considered as payment of the minimum tax for the tax year."
+    },
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "1",
+      "title": "General Provisions",
+      "content": "General Provisions"
+    },
+    {
+      "provision_ref": "40",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "40",
+      "title": "Charge to Tax",
+      "content": "The provisions for the tax on salary as stated in the Finance Act of 1995 promulgated by the Royal\n\nKram No. 11NS94 dated 31 December 1994 shall be amended as follows for the benefit of the State\n\nBudget."
+    },
+    {
+      "provision_ref": "41",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "41",
+      "title": "Object of Tax",
+      "content": "The tax on salary is a monthly tax imposed on salary that has been received within the framework of\n\nfulfilling employment activities\n\nA physical person resident in the Kingdom of Cambodia is liable to the tax on salary for Cambodian\nsource salary and foreign source salary.\n\nA non-resident physical person is liable to the tax on salary for Cambodian source salary."
+    },
+    {
+      "provision_ref": "42",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "42",
+      "title": "Definitions",
+      "content": "For the purposes of the provisions for the tax on salary:\n\n1. The term “resident” when used for an employee, taxpayer, or physical person means domiciled\n\nin, or having a principal place of abode in, the Kingdom of Cambodia, or present in the Kingdom of\n\nCambodia on more than 182 days in the calendar year.\n\n2. The term “non-resident” means not resident.\n\n3. Except for contrary provisions, any reference to the terms employee, taxpayer, and physical\n\nperson are references to both residents and non-residents as defined in this article.\n\n4. The term “employer” includes any government institution, any resident legal person, any resident\n\npass-through, any permanent establishment in the Kingdom of Cambodia, any non-profit organization,\n\nor any resident physical person carrying on a business.\n\n5. The term “employee” means any physical person receiving salary from their employment activity\n\nincluding any governmental officer, any elected official and the officer or director of an enterprise.\n\n6. The term “Cambodian source salary” means salary received within the framework of fulfilling\n\nemployment activities in the Kingdom of Cambodia. As for the salary received by a non-resident for\n\nfurnishing technical assistance it shall be treated as from sources in the country where the payor of such\nincome resides.\n\n7. The term “foreign” means:\n\na. when used with respect to an physical person means non- resident;\n\nb. for the determination of the source of income, means outside of the Kingdom of Cambodia.\n\n8. The term “salary” means remunerations, wages, bonuses, and overtime, compensations and\n\nfringe benefits which are paid to an employee, or which are paid for the direct or indirect advantage of\n\nthe employee for the fulfillment of employment activities."
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "2",
+      "title": "Tax Exempt Salary",
+      "content": "Tax Exempt Salary"
+    },
+    {
+      "provision_ref": "43",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "43",
+      "title": "Salary of Diplomatic and Other Foreign Officials",
+      "content": "The tax exemption for the salary of diplomatic and foreign officials shall be as follows:\n\n1. Shall be exempted from the Tax on Salary:\n\na. Salaries that officers and employees of a diplomatic or consular mission of a foreign government\n\nholding a diplomatic or official passport of that government have received within the framework of\nfulfilling their official function in the Kingdom of Cambodia.\n\nb. Salaries that foreign representatives, officials and employees of international organizations and of\n\nagencies of technical cooperation of other governments have received within the framework of fulfilling\ntheir official function in the Kingdom of Cambodia.\n\n2. Any tax exemption in this article shall be based on the principle of reciprocity between the\n\ngovernments concerned."
+    },
+    {
+      "provision_ref": "44",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "44",
+      "title": "Tax Exempt Income of Employees",
+      "content": "Shall be tax exempted:\n\n1. Real refunds on professional expenses made by the employee under the assignment and for the\n\nbenefit of the employer and which satisfy the 3 following conditions:\n\na. made for the direct and exclusive interest of the enterprise;\n\nb. not exaggerated nor extravagant;\n\nc. supported by detailed invoices already paid and made in the name of the recipient of the real\n\nexpense refund.\n\n2. Indemnity for the layoff within the limit as provided in Labor Law.\n\n3. Additional remuneration with social characteristics where there is provision in Labor Law.\n\n4. Supply gratis or below acquisition cost of special uniforms or professional equipment.\n\n5. Flat allowance for mission and travel expenses. This allowance should not overlap the real\n\nexpense refund provided in this article."
+    },
+    {
+      "provision_ref": "3",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "3",
+      "title": "Monthly Tax Base, Monthly Taxable Salary and the Determination of the Monthly Tax",
+      "content": "Monthly Tax Base, Monthly Taxable Salary and the Determination of the Monthly Tax"
+    },
+    {
+      "provision_ref": "45",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "45",
+      "title": "Monthly Tax Base",
+      "content": "Except for fringe benefits taxable under article 48 of this law the monthly tax base for a resident is the\n\ntaxable salary from which is deducted:\n\n1. withholding obligations as the result of the compliance with the Labor Law in order to create\n\npensions and for the maintenance of social welfare;\n\n2. payments which are allowed to be tax exempt in Article 44 of this law."
+    },
+    {
+      "provision_ref": "46",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "46",
+      "title": "Monthly Taxable Salary",
+      "content": "The monthly taxable salary shall be determined as follows:\n\n1. Monthly taxable salary for a resident employee includes:\n\na. salary received from Cambodian sources;\n\nb. salary received from foreign sources;\n\nc. advance money, loan or installment made by the employer to the employee which shall be added\n\nto the taxable salary of the month in which they are paid out and shall be deducted from salary in the\nmonth of any repayment made by the employee.\n\n2. Based on the evidence of family situation, any resident employee with:\n\na. minor dependent children at the time of tax payment is allowed a reduction in the tax base of\n\nseventy-five thousand Riels per each child per month,\n\nb. spouse having only an occupation as housewife is allowed a reduction in the tax base of seventy-\n\nfive thousand Riels for one person only per month.\n\n3. For a non-resident taxpayer taxable salary includes salary from Cambodian sources taxable\n\naccording to the provisions of this chapter."
+    },
+    {
+      "provision_ref": "47",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "47",
+      "title": "Determination of the Monthly Tax of an Employee",
+      "content": "For a resident employee the tax to be paid must be determined on the monthly taxable salary and must\nbe withheld by the employer according to the progressive rates by tranche as follows:\n\nTaxable Parts of the Monthly Salary Tax Rate\n\nFrom 0 to 500,000 Riels 0%\n\nFrom 500,001 to 1,250,000 Riels 5%\n\nFrom 1,250,001 to 8,500,000 Riels 10%\n\nFrom 8,500,001 to 12,500,000 Riels 15%\n\nOver 12,500,000 20%"
+    },
+    {
+      "provision_ref": "48",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "48",
+      "title": "The Determination of the Tax on Fringe Benefits",
+      "content": "For fringe benefits, every month, the employer shall withhold and pay tax by the time specified at the\n\nrate of 20 percent of the total value of fringe benefits given to all employees. The value of fringe\n\nbenefits is the fair market value inclusive of all taxes."
+    },
+    {
+      "provision_ref": "49",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "49",
+      "title": "Determination of the Tax on Salary for a Non-Resident",
+      "content": "Taxpayer\nExcept for fringe benefits to be taxed under article 48 of this law, for a non-resident taxpayer the tax\n\nshall be withheld by the payor at the rate of 15 percent on every payment of taxable salary as provided\n\nin paragraph 3 of article 46 of this law. This withholding tax is the final tax on salary for the non-\n\nresident receiving the salary."
+    },
+    {
+      "provision_ref": "50",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "50",
+      "title": "Foreign Tax Credit",
+      "content": "A resident taxpayer who has received foreign source salary and who has paid taxes according to foreign\n\ntax law shall receive a tax credit which for deduction from the tax on salary to be paid in the Kingdom of\n\nCambodia under the conditions that there is presentation of documents confirming this payment\nabroad.\n\na. In order to calculate the tax to be paid in the Kingdom of Cambodia before deduction of this tax\n\ncredit, the total amount of salaries received from Cambodian sources and foreign sources shall be taken\n\ninto account.\n\nb. The tax credit is determined separately for the tax paid by a Cambodian resident in each foreign\n\ncountry. But, the tax credit to be allowed for the tax on salary paid abroad is the smaller of:\n\n· the tax amount actually paid in a foreign country, or\n\n· the amount obtained by multiplying the tax on total salaries from all sources for the same period\ncalculated according to the table of progressive tax rates by tranche in article 47 of this law with the\n\nratio of salary received in that foreign country to the total salaries from all sources.\n\nThe refund of the foreign tax credit is possible only if the resident taxpayer has complied with the\n\nformalities and supplied various documents as specified by the tax administration especially the\ncertification from the employer and from the tax administration of the place of employment abroad."
+    },
+    {
+      "provision_ref": "4",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "4",
+      "title": "Obligations of Employers and Employees",
+      "content": "Obligations of Employers and Employees"
+    },
+    {
+      "provision_ref": "51",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "51",
+      "title": "Cause of Tax Liability",
+      "content": "The salary payment is the cause of the tax liability."
+    },
+    {
+      "provision_ref": "52",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "52",
+      "title": "Tax Debt and the Obligation to Withhold",
+      "content": "The tax debt and the obligation to withhold shall be as follows:\n\n1. This tax is the debt of the physical person receiving the salary, including foreign physical persons,\n\nexcept for contrary provisions as stated in international agreement.\n\n2. The tax on salary shall be collected through monthly withholding procedure by the employer at\n\nthe time of each salary payment.\n\n3. If the employer resides abroad, the fiscal representative appointed in the Kingdom of Cambodia\n\nby the employer is the one in charge of withholding the tax on salary prior to the salary payment to\nemployees and of transferring their taxes to the State.\n\n4. The employer or the resident representative in the Kingdom of Cambodia of a foreign employer\n\nand the employee shall be jointly responsible for the payment of the tax on salary in the Kingdom of\nCambodia regardless of whether the salary is paid in the Kingdom of Cambodia or abroad. In the case\n\nwhere no withholding is made on the tax on salary, the employer is held responsible under this law\n\neven if the tax is already paid by the employee."
+    },
+    {
+      "provision_ref": "53",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "53",
+      "title": "Payment of Tax Withheld",
+      "content": "The withholding tax related to the salary payment made in any one month shall be paid by the 15th of\n\nthe following month to the tax administration in the area of the domicile or principal establishment of\nthe person in charge of withholding the tax."
+    },
+    {
+      "provision_ref": "54",
+      "chapter": "Chapter 2: Provisions for The Tax on Salary",
+      "section": "54",
+      "title": "Tax Withholding, Record Keeping and Reporting",
+      "content": "Requirements\nAll employers who make taxable salary payments shall be in charge of:\n\n1. withholding tax prior to the salary payment;\n\n2. reporting to the tax administration and the employee of the status of the tax withheld;\n\n3. keeping and maintaining books and records which shall be determined by prakas of the Ministry\n\nof Economy and Finance."
+    },
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "1",
+      "title": "General Provisions",
+      "content": "General Provisions"
+    },
+    {
+      "provision_ref": "55",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "55",
+      "title": "Charge to Tax",
+      "content": "From 1 January 1998 onward, shall be established a Tax on Value Added on taxable supplies for the\n\nbenefit of the State budget."
+    },
+    {
+      "provision_ref": "56",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "56",
+      "title": "Definitions",
+      "content": "For the purpose of the provisions of the tax on value added:\n\n1. The term “good” means tangible property other than land or money.\n\n2. The term “service” means the provisions of something of value other than goods, land, or money.\n\n3. The term “supply of a good” means the transfer of the right to use or dispose of a good as the\n\nowner whether or not for consideration. The supply of a service incidental to the supply of a good shall\n\nbe considered a supply of a good.\n\n4. The term “supply of a service” means a supply that is not a supply of a good or land or money\n\nwhich is made for consideration. The supply of a good incidental to the supply of a service shall be\n\nconsidered a supply of a service.\n\n5. The term “person” means any person or group of persons engaged in business and any other\n\nperson who is related to the person.\n\n6. The term “related” in relation to a person means:\n\na. a person who owns 20 percent of more in value or voting power in equity interests in the person\n\nunder consideration;\n\nb. having common management or directors with the person;\n\nc. a member of the family or spouse or a member of the family of the spouse of the person;\n\nd. purchasing 30 percent or more of the person’s total output in any three consecutive month\n\nperiod.\n\n7. The term “tax” in this chapter means the tax on value added."
+    },
+    {
+      "provision_ref": "57",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "57",
+      "title": "Non Taxable Supplies",
+      "content": "Non taxable supplies are as follows:\n\n1. Public postal service.\n\n2. Hospital, clinic, medical, and dental services and the sale of medical and dental goods incidental\n\nto the performance of such services.\n\n3. The service of transportation of passengers by a wholly state owned public transportation\n\nsystem.\n\n4. Insurance services.\n\n5. Primary financial services which shall be determined by prakas of the Ministry of Economy and\n\nFinance.\n\n6. The importation of articles for personal use that are exempt from customs duties and that are\n\nwithin the value level which shall be determined by prakas of the Ministry of Economy and Finance.\n\n7. Non profit activities in the public interest that have been recognized by the Minister of Economy\n\nand Finance."
+    },
+    {
+      "provision_ref": "58",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "58",
+      "title": "Non Taxable Supplies for Diplomatic Missions and",
+      "content": "International Organizations\nNon taxable supplies for diplomatic missions and international organizations shall be as follows:\n\n1. The imports of goods for or by foreign diplomatic and consular missions, international\n\norganizations and agencies of technical cooperation of other governments for use in the exercise of\n\ntheir official function shall be treated as non taxable supplies. Non taxable supplies shall only be allowed\n\non the certification by the chief of mission to the Tax Department that the goods are being imported for\npurpose of the use as above.\n\n2. The import of goods for the personal use of the official personnel of missions and organizations\n\nas stated in paragraph 1 of this article shall be treated as non taxable supplies only for those items that\n\nare on an enumerated list which shall be determined by prakas of the Ministry of Economy and Finance.\n\n3. The non taxable supplies in this article shall be based on the principle of reciprocity between\n\ngovernments concerned."
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "2",
+      "title": "General Principles for the Tax on Value Added",
+      "content": "General Principles for the Tax on Value Added"
+    },
+    {
+      "provision_ref": "59",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "59",
+      "title": "Taxable Person",
+      "content": "The taxable person refers to any person subject to the real regime system of taxation who makes a\ntaxable supply as stated in article 60 of this law.\n\nA person subject to the simplified regime system of taxation may apply to be classified as a taxable\nperson. The conditions and procedures for this application shall be determined by prakas of the Ministry\n\nof Economy and Finance.\n\nFor the purpose of this chapter, an employee shall not be treated as a taxable person with respect to\n\nactivities engaged in as an employee."
+    },
+    {
+      "provision_ref": "60",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "60",
+      "title": "Taxable Supply",
+      "content": "Except for contrary provisions in this chapter, the term “taxable supply” means:\n\n1. the supply of goods or services by a taxable person in the Kingdom of Cambodia;\n\n2. the appropriation of goods for his own use by the taxable person;\n\n3. the making of a gift or supply at below cost of goods or services by the taxable person;\n\n4. the import of goods into the customs territory of the Kingdom of Cambodia.\n\nThe rules and procedures for the application of this article shall be provided in sub-decree."
+    },
+    {
+      "provision_ref": "61",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "61",
+      "title": "Taxable Value",
+      "content": "The taxable value shall be determined as follows:\n\n1. The taxable value for any supply shall be the price of the goods or services the seller charged the\n\npurchaser. The taxable value includes any charges for transportation and other items payable to the\n\nseller with respect to the supply, including any specific tax on certain merchandise and services but\n\nexcluding the tax on value added. Procedures for the adjustment of the taxable value at the time of\n\nsupply and after the time of supply shall be determined by sub-decree.\n\n2. When the payment for a taxable supply involves any consideration other than money for the\n\ndirect or indirect benefit of the seller, this consideration shall be included in the taxable value at its fair\n\nmarket value.\n\n3. The taxable value for any imported good shall be the customs value including insurance and\n\nfreight plus any customs duties and any specific tax on certain merchandise and services. If there is no\n\nsuch adjusted customs value, the fair market value shall be used.\n\n4. If the taxable value of the goods or services supplied does not represent the true value, the tax\n\nadministration may determine a value for such goods or services and such value shall be presumed to\nbe the correct value until proven otherwise to the satisfaction of the tax administration.\n\n5. The taxable value of used goods that the taxable person regularly purchases from consumers for\n\nresale or sells on behalf of other persons shall be the differential between the selling price and the\npurchase price, or the commission from the sale of those goods."
+    },
+    {
+      "provision_ref": "62",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "62",
+      "title": "Time of Supply",
+      "content": "The time of supply shall be determined as follows:\n\n1. The tax on value added becomes due and payable at the time of supply.\n\n2. The time of supply of goods and services shall be the time by which the seller must issue the\n\ninvoice or the time the seller issues the invoice if that invoice is issued before the time it must be issued\nby the seller.\n\n3. A value added tax invoice must be issued within seven days after the goods are shipped or\n\nservices rendered or after payment if payment occurs before the goods are shipped or services\nrendered. If a shipment is not accompanied by an invoice, there shall be attached a shipping document\n\nwhich has been properly recorded in the shipping journal.\n\n4. For the supply of goods or services which are made continuously or which involve multiple\n\npayments, the time of supply shall be determined by prakas of the Ministry of Economy and Finance.\n\n5. In the case of the import of goods, the time of supply shall be the time the importer files a\n\ndeclaration to the customs administration according to the regulations in force."
+    },
+    {
+      "provision_ref": "63",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "63",
+      "title": "Location of Supply",
+      "content": "The location of supply shall be determined as follows:\n\n1. The supply of a good takes place in the Kingdom of Cambodia if the good is delivered in the\n\nKingdom of Cambodia, whether that delivery takes on the characteristic of a transfer of the right to use\n\nor to dispose. In the case where the supply must include transportation, the supply takes place in the\n\nKingdom of Cambodia if the good is in the Kingdom of Cambodia when the transportation starts.\n\n2. The supply of a service takes place in the Kingdom of Cambodia if the service is performed in the\n\nKingdom of Cambodia, except that:\n\na. the supply of a service in connection with immovable property is deemed to take place where\n\nthe property is located;\n\nb. the supply of a service in connection with transport is deemed to take place where the transport\n\noccurs.\n\n3. Goods are imported into the Kingdom of Cambodia if they are brought within the customs\n\nterritory of the Kingdom of Cambodia."
+    },
+    {
+      "provision_ref": "3",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "3",
+      "title": "Tax Rate and the Calculation of Tax",
+      "content": "Tax Rate and the Calculation of Tax"
+    },
+    {
+      "provision_ref": "64",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "64",
+      "title": "Tax Rate",
+      "content": "The tax rate shall be as follows:\n\n1. The tax on value added shall be imposed at the tax rate of 10 percent on the taxable value of\n\neach taxable supply in the Kingdom of Cambodia.\n\n2. The tax on value added shall be imposed at the tax rate of 0 percent on the taxable value of each\n\ntaxable supply of goods exported from the Kingdom of Cambodia and of the taxable supply of a service\nrendered outside of the Kingdom of Cambodia as stated in article 63 of this law.\n\n3. The tax administration may use a number of documents to certify that export has in fact\n\noccurred including export certification from the Customs Department, import documents from the\n\ncountry of import, executed letters of credit, and payments received by a domestic bank."
+    },
+    {
+      "provision_ref": "65",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "65",
+      "title": "Input Tax Credit and Non Taxable Supplies",
+      "content": "The input tax credit and the non taxable supplies shall be determined as follows:\n\n1. The tax paid by a taxable person on goods and services for use in the business which are supplied\n\nby another taxable person or the tax paid by the taxable person as an importer on imported goods or\n\nservices for use in his own business shall become an input tax credit deductible against the output tax.\n\nInput means any goods or services purchased and output means any goods or services sold.\n\n2. In the case where goods and services purchased are used partly for taxable supplies and partly\n\nfor non taxable supplies, the tax credit shall be allowed only for that portion used for taxable supplies."
+    },
+    {
+      "provision_ref": "66",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "66",
+      "title": "Determination of Tax",
+      "content": "The tax amount shall be determined as follows:\n\n1. The tax charged under article 64 of this law shall become a debt to the State at the time of\n\nsupply.\n\n2. The tax to be paid to the State is equal to the total output tax according to the rates in article 64\n\nof this law minus the total input tax credit allowed for the same month."
+    },
+    {
+      "provision_ref": "67",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "67",
+      "title": "Capital Assets that Cease to be Used in the Business",
+      "content": "If a capital asset for which a tax credit has been received under article 65 of this law ceases to be used\n\nin the business of the taxable person, such asset shall be treated as sold and taxable for its then fair\n\nmarket value at the time of cessation of use."
+    },
+    {
+      "provision_ref": "68",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "68",
+      "title": "Necessary Documentation to Claim an Input Tax Credit",
+      "content": "The request for an input tax credit shall be attached with:\n\n1. a value added tax invoice, drawn up in accordance with article 78 of this law,\n\n2. a customs Bill of Entry for Import, certified by customs authorities, which must state the name of\n\nthe taxable person as consignee or importer and the amount of tax paid at the time of import."
+    },
+    {
+      "provision_ref": "69",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "69",
+      "title": "Input Tax Not Allowed as a Tax Credit",
+      "content": "The input tax that shall not be allowed as a tax credit includes the tax paid by a taxable person on\nentertainment, amusement, or recreation expenses; the purchase of automobiles; or the purchase of\n\ncertain petroleum products."
+    },
+    {
+      "provision_ref": "4",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "4",
+      "title": "Payment of Tax",
+      "content": "Payment of Tax"
+    },
+    {
+      "provision_ref": "70",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "70",
+      "title": "The Monthly Filing of the Value Added Tax Declaration",
+      "content": "The value added tax declaration for any month shall be submitted to the tax administration on or\nbefore the 20th day of the following month and the tax shall be paid according to the amount declared\n\nat the time the declaration is filed."
+    },
+    {
+      "provision_ref": "71",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "71",
+      "title": "Treatment of Excess Credits",
+      "content": "If the input tax paid by the taxable person under article 64 of this law exceeds the output tax collected\n\nby that person for any month:\n\na. the excess shall be used as a tax credit against any outstanding liability of such person for the tax\n\non value added for prior months,\n\nb. the remainder of the excess shall be treated as an input tax credit under article 65 of this law for\n\nthe succeeding month."
+    },
+    {
+      "provision_ref": "72",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "72",
+      "title": "Refunds for Exporters",
+      "content": "The tax administration may refund the monthly excess input tax credits according to the request of the\n\ntaxable person who has as a primary activity export if that person has shown proper certification of\nexports and has complied correctly with his obligations in book and other record keeping."
+    },
+    {
+      "provision_ref": "73",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "73",
+      "title": "Refunds Where Excess Credits Continue for Three Months or More",
+      "content": "If the taxable person has excess input tax credits for three months or more that person may apply for a\nrefund of the tax at the end of the third month or in any month thereafter. To be effective for any\n\nmonth, the request must be filed in a period of 20 days after the close of such month."
+    },
+    {
+      "provision_ref": "74",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "74",
+      "title": "Refunds to Diplomatic Missions and International Organizations",
+      "content": "Foreign diplomatic and consular missions, international organizations and agencies of technical\n\ncooperation of other governments may apply for a refund of the tax on those goods purchased locally\n\nthat are listed on an enumerated list which shall be determined by prakas of the Ministry of Economy\nand Finance. The refund shall be granted only on the certification by the chief of mission to the tax\n\nadministration that the goods are being bought for use in the exercise of the official function of the\nrelevant unit."
+    },
+    {
+      "provision_ref": "75",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "75",
+      "title": "Liability for the Collection and Payment of Tax",
+      "content": "The liability for the collection and payment of tax is as follows:\n\n1. A taxable person or importer has the obligation to pay the tax imposed by article 64 of this law\n\nwith respect to every taxable supply in which the taxable person or importer engages.\n\n2. Special conditions for the liability of the purchaser for the tax where the supplier is not engaged\n\nin business in the Kingdom of Cambodia or where there are other obstacles to the collection of the tax\nfrom the supplier shall be provided by sub-decree.\n\n3. Any person making a supply of goods and services on behalf of the owner, other than as an\n\nemployee, and having control of the supply shall be treated as a taxable person with respect to that\n\nsupply."
+    },
+    {
+      "provision_ref": "5",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "5",
+      "title": "Administrative Provisions",
+      "content": "Administrative Provisions"
+    },
+    {
+      "provision_ref": "76",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "76",
+      "title": "Registration",
+      "content": "The principles of registration shall be as follows:\n\n1. A taxable person as stated in article 59 of this law must complete registration for the tax on\n\nvalue added within a period of 30 days of the day on which the person becomes a taxable person. The\n\nrules and procedures for registration shall be determined by sub-decree.\n\n2. Where a person required to register fails to register the tax administration may register that\n\nperson from the time that the person should have been registered. The person so registered shall be\n\nliable for all tax in article 64 of this law from the date person should have been registered.\n\n3. Where a taxable person registered under this article expects not to be classified as a taxable\n\nperson for the current and succeeding year, such person may apply for de-registration.\n\n4. For a group of two or more related persons where one or more of those persons is not a taxable\n\nperson the tax administration may treat a taxable person as registered in respect to all or part of the\nrelated economic activities. Where none of the related persons is a taxable person the tax\n\nadministration may register one or more of those persons of the group in respect to all or part of the\nrelated economic activities.\n\n5. For registration purposes and with the approval of the tax administration, for a group of taxable\n\npersons who are related as defined in article 56 of this law, the activities of various members of the\n\ngroup may be treated as the activities of one designated member. In any such case, each member of the\n\ngroup must undertake to be jointly and severally liable for compliance with the provisions of this\nchapter."
+    },
+    {
+      "provision_ref": "77",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "77",
+      "title": "Value Added Tax Invoice",
+      "content": "The principles for the value added tax invoice shall be as follows:\n\n1. Any taxable person who makes a supply shall provide the purchaser a serially numbered Value\n\nAdded Tax Invoice.\n\n2. The invoice required by paragraph 1 of this article with respect to any supply shall have the title\n\nof “Value Added Tax Invoice” and shall contain the following:\n\na. the name and registration number of the seller,\n\nb. the date of issue of the invoice,\n\nc. the name of the purchaser or purchaser’s employee or agent,\n\nd. the quantity, description and selling price of the goods or services,\n\ne. the total value excluding the specific tax on certain merchandise and services and the tax on\n\nvalue added,\n\nf. the total taxable value if different from the amount in subparagraph e of this paragraph,\n\ng. the amount of the tax payable,\n\nh. the date of supply of the goods or services if different from the date of issue of the invoice.\n\n3. A person cannot issue any invoice or other document indicating an amount which claims to be\n\ntax on the supply of any goods or services unless such person is a taxable person registered according to"
+    },
+    {
+      "provision_ref": "77",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "77",
+      "title": "of this law, and the goods or services supplied are taxable goods or services.",
+      "content": "4. Without prejudice to any other penalties, where any invoice falsely claims to be a Value Added\n\nTax Invoice and shows that an amount of tax is payable, the person issuing such invoice shall pay to the\n\ntax administration within seven days of the date of issue of the invoice any amount shown on the\ninvoice whether or not such tax amount would otherwise be properly payable.\n\n5. In the case of sales at retail where most sales are not to a taxable person the invoice as required\n\nin paragraph 1 of this article shall be considered satisfied if the seller has provided a detailed cash\n\nregister receipt or other documentation which shall be determined by sub-decree.\n\n6. In the case of an import, the customs Bill of Entry properly filled and containing certification of\n\nthe payment of the tax shall be used as the control document for establishing eligibility for a tax credit."
+    },
+    {
+      "provision_ref": "78",
+      "chapter": "Chapter 3: Provisions for the Tax on Value Added",
+      "section": "78",
+      "title": "Failure to Issue Value Added Tax Invoice",
+      "content": "The failure to issue value added tax invoices shall be subject to penalties as follows:\n\n1. Without prejudice to any other penalties, if the tax administration can find for a second time that\n\nan establishment of the a taxable person has failed to issue the required invoice, the tax administration\n\nmay lock and seal the establishment for a specified period not to exceed 7 days.\n\n2. If any establishment which has been closed under paragraph 1 of this article, has committed\n\nagain such an offense, such establishment may again be closed for a specified period not to exceed 7\n\ndays."
+    }
+  ],
+  "definitions": []
+}

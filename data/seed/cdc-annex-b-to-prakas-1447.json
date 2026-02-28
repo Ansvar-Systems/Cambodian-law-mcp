@@ -1,0 +1,57 @@
+{
+  "id": "cdc-annex-b-to-prakas-1447",
+  "type": "statute",
+  "title": "Annex B to Prakas1447_071226",
+  "title_en": "Annex B to Prakas1447_071226",
+  "short_name": "Annex B to Prakas1447_071226",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://cdc.gov.kh/wp-content/uploads/2022/04/Annex-B-to-Prakas-1447.pdf",
+  "description": "CDC Category: Customs",
+  "provisions": [
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "",
+      "content": "SAD Processing Lanes:\n\n When the SAD is completely and satisfactorily checked, the customs officer\nrequests the system to assess the SAD. Using risk management criteria, the automated\nsystem assigns the processing Lane for the Declaration as below:\n\n\n\n -155-\n\n - RED Lane: The SAD must be scrutinized (checked against documents) and\n the goods physically inspected prior to re-routing of the SAD to GREEN\n and assessment by Customs (manual assessment).\n\n - YELLOW Lane: The SADs must be scrutinized (checked against the\n documents) prior to re-routing to GREEN and assessment by Customs\n (manual assessment).\n\n - GREE\u0005 Lane: The SAD is automatically assessed and a clearance\n document issued. The hardcopy SADs may be subject to post-clearance\n documentary check/auditing.\n\n - BLUE Lane: The SAD is given the same treatment as for GREE\u0005 Lane\n and with specific reasons subject to post-clearance audit.\n\n In the case of Red and Yellow selected declarations, Customs verifies the exact\nselection criteria that caused the declaration to be selected. The computer will show any\nspecial requirements which must be checked such as import license requirement, history\nof smuggling, goods to be sampled, etc. The SAD is assigned for documentary\nexamination. If a RED Lane is selected the SAD is assigned to a customs officer for\nphysical inspection."
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "",
+      "content": "Query Desk:\n\n SADs which fail documentary checks or fail goods examinations will be routed\nto the Customs Query Desk. The Customs Broker/Declarant will be notified that the\nSAD status has changed to “query” and the reasons for the query.\n\n Upon receiving the notification the Customs Broker/Declarant will present\nhimself at the Customs Query Desk. Any amendments required to the SAD will be\ndiscussed between the Customs Query Desk Officer and the Customs Broker/Declarant.\nIf agreement is not reached, the customs officer will prepare a report or record to CED\nHQ for further action.\n\n When the above action is completed and agreement is reached, the declaration\nis signed by the customs officer and the Inspection Act is updated with the results of the\nquery and the declaration is re-routed to GREEN by customs."
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "",
+      "content": "Container Scanning:\n\n Container scanning is done independently of the declaration processing.\n\n The ASYCUDA system will be available in the Scanning Office enabling the\nScanning Officer to compare the goods declared on the SAD with those found on the\nscanning image/scanning information.\n\n Any irregularity found should be entered in the Inspection Act Form by\nCustoms.\n\n\n\n -156-"
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "",
+      "content": "Assessment \u0005otice:\n\n When the SAD is assessed by the ASYCUDA system, an Assessment Notice is\ngenerated which lists the duties and taxes which are due for payment. The notice should\nbe used as a reference document to pay the duty and taxes and fees and other charges."
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "",
+      "content": "Accounting:\n\n Duty and taxes, other charges, and fees are paid in accordance with regulations.\nIf paid at the National Bank of Cambodia or other authorized financial institution the\nreceipt is presented to Customs, and the computer system issues a Customs receipt."
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "",
+      "content": "Release of Goods:\n\n After payment of duties and taxes, other charges, and fees Customs prints out\nthe Cargo Release Note which details the duties and taxes, other charges, and fees that\nrelate to the declaration, and is used to authorize release of the cargo from customs. The\nCargo Release Note also authorizes removal of the cargo from warehouses or container\nyards where the cargo is located."
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "",
+      "content": "Post Clearance Auditing (PCA):\n\n The controls over BLUE and GREEN declarations are mainly carried out on a\npost-clearance basis.\n\n\n\n\n 3\n\n\n\n\n -157-"
+    }
+  ],
+  "definitions": []
+}

@@ -17,8 +17,8 @@ sources:
       url: "https://cdc.gov.kh"
       summary: "Official government investment portal; legislation published as public documents"
     coverage:
-      scope: "175 English-language PDFs covering Constitution, major legislation (labor, taxation, investment, commerce, land, environment, customs, forestry, tourism, anti-corruption, etc.)"
-      limitations: "Not all Cambodian laws available; some PDFs are scanned Khmer images without OCR-extractable text"
+      scope: "167 English-language PDFs covering Constitution, major legislation (labor, taxation, investment, commerce, land, environment, customs, forestry, tourism, anti-corruption, etc.). 5,876 provisions, 74 definitions."
+      limitations: "Some PDFs are scanned Khmer images without OCR-extractable text (zero provisions extracted)"
     languages:
       - "en"
 
@@ -35,12 +35,12 @@ sources:
       url: "https://www.camlawbox.com/files/TERMS-AND-CONDITIONS-OF-USE-CAMLAWBOX-rev.-07.07.2018.pdf"
       summary: "Largest free online collection of Cambodian laws; individual law pages require login"
     coverage:
-      scope: "8,000+ law titles with dates and types (census metadata only; full text behind authentication)"
-      limitations: "Individual law pages require login; used for census enumeration only"
+      scope: "7,815 law titles with dates, types, and URLs. Categories: acts (689), prakas (1,482), sub-decrees (819), regulations (328), notifications (807), instructions (369), other (3,321). All indexed as title + metadata provisions for search discovery."
+      limitations: "Individual law pages require login (HTTP 302 to /users/login); full text not accessible without authentication"
     languages:
       - "en"
 
 data_freshness:
   automated_checks: false
   check_frequency: "monthly"
-  last_verified: "2026-02-27"
+  last_verified: "2026-02-28"
