@@ -1,16 +1,16 @@
 # Cambodian Law MCP Server
 
-**The Cambodia Law alternative for the AI age.**
+**The National Assembly of Cambodia alternative for the AI age.**
 
-[![npm version](https://badge.fury.io/js/%40ansvar/cambodia-law-mcp.svg)](https://www.npmjs.com/package/@ansvar/cambodia-law-mcp)
+[![npm version](https://badge.fury.io/js/@ansvar%2Fcambodian-law-mcp.svg)](https://www.npmjs.com/package/@ansvar/cambodian-law-mcp)
 [![MCP Registry](https://img.shields.io/badge/MCP-Registry-blue)](https://registry.modelcontextprotocol.io)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/Cambodia-law-mcp?style=social)](https://github.com/Ansvar-Systems/Cambodia-law-mcp)
-[![CI](https://github.com/Ansvar-Systems/Cambodia-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/Cambodia-law-mcp/actions/workflows/ci.yml)
-[![Database](https://img.shields.io/badge/database-pre--built-green)]()
-[![Provisions](https://img.shields.io/badge/provisions-21%2C559-blue)]()
+[![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/Cambodian-law-mcp?style=social)](https://github.com/Ansvar-Systems/Cambodian-law-mcp)
+[![CI](https://github.com/Ansvar-Systems/Cambodian-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/Cambodian-law-mcp/actions/workflows/ci.yml)
+[![Database](https://img.shields.io/badge/database-pre--built-green)](docs/INTERNATIONAL_INTEGRATION_GUIDE.md)
+[![Provisions](https://img.shields.io/badge/provisions-13%2C691-blue)](docs/INTERNATIONAL_INTEGRATION_GUIDE.md)
 
-Query **494 Cambodian Acts** -- from the Data Protection Act and Computer Misuse and Cybercrimes Act to the Companies Act, Constitution of Cambodia, and more -- directly from Claude, Cursor, or any MCP-compatible client.
+Query **7,982 Cambodian laws** -- from the Law on Telecommunications and the Criminal Code to the Law on Commercial Enterprises, Labour Law, and more -- directly from Claude, Cursor, or any MCP-compatible client.
 
 If you're building legal tech, compliance tools, or doing Cambodian legal research, this is your verified reference database.
 
@@ -20,15 +20,15 @@ Built by [Ansvar Systems](https://ansvar.eu) -- Stockholm, Sweden
 
 ## Why This Exists
 
-Cambodian legal research is scattered across Cambodia Law Reports, the Cambodia Gazette, and various government portals. Whether you're:
-- A **lawyer** validating citations in a brief or contract under Cambodian law
-- A **compliance officer** checking if the Data Protection Act 2019 provisions apply to your processing activities
-- A **legal tech developer** building tools on Cambodian legislation
-- A **researcher** tracing legislative history from colonial-era statutes to the 2010 Constitution
+Cambodian legal research is scattered across the National Assembly website, cambodialawcenter.org, OHCHR Cambodia, and un.org/cambodia. Whether you're:
+- A **lawyer** validating citations in a brief or contract
+- A **compliance officer** checking if a statute is still in force
+- A **legal tech developer** building tools on Cambodian law
+- A **researcher** tracing Cambodian legislation across national and international frameworks
 
 ...you shouldn't need dozens of browser tabs and manual PDF cross-referencing. Ask Claude. Get the exact provision. With context.
 
-This MCP server makes Cambodian law **searchable, cross-referenceable, and AI-readable**.
+This MCP server makes Cambodian law **searchable, cross-referenceable, and AI-readable** in both Khmer and English.
 
 ---
 
@@ -38,12 +38,12 @@ This MCP server makes Cambodian law **searchable, cross-referenceable, and AI-re
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://cambodia-law-mcp.vercel.app/mcp`
+**Endpoint:** `https://cambodian-law-mcp.vercel.app/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add cambodia-law --transport http https://cambodia-law-mcp.vercel.app/mcp` |
+| **Claude Code** | `claude mcp add cambodian-law --transport http https://cambodian-law-mcp.vercel.app/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -52,9 +52,9 @@ This MCP server makes Cambodian law **searchable, cross-referenceable, and AI-re
 ```json
 {
   "mcpServers": {
-    "cambodia-law": {
+    "cambodian-law": {
       "type": "url",
-      "url": "https://cambodia-law-mcp.vercel.app/mcp"
+      "url": "https://cambodian-law-mcp.vercel.app/mcp"
     }
   }
 }
@@ -65,9 +65,9 @@ This MCP server makes Cambodian law **searchable, cross-referenceable, and AI-re
 ```json
 {
   "github.copilot.chat.mcp.servers": {
-    "cambodia-law": {
+    "cambodian-law": {
       "type": "http",
-      "url": "https://cambodia-law-mcp.vercel.app/mcp"
+      "url": "https://cambodian-law-mcp.vercel.app/mcp"
     }
   }
 }
@@ -76,7 +76,7 @@ This MCP server makes Cambodian law **searchable, cross-referenceable, and AI-re
 ### Use Locally (npm)
 
 ```bash
-npx @ansvar/cambodia-law-mcp
+npx @ansvar/cambodian-law-mcp
 ```
 
 **Claude Desktop** -- add to `claude_desktop_config.json`:
@@ -87,9 +87,9 @@ npx @ansvar/cambodia-law-mcp
 ```json
 {
   "mcpServers": {
-    "cambodia-law": {
+    "cambodian-law": {
       "command": "npx",
-      "args": ["-y", "@ansvar/cambodia-law-mcp"]
+      "args": ["-y", "@ansvar/cambodian-law-mcp"]
     }
   }
 }
@@ -100,9 +100,9 @@ npx @ansvar/cambodia-law-mcp
 ```json
 {
   "mcp.servers": {
-    "cambodia-law": {
+    "cambodian-law": {
       "command": "npx",
-      "args": ["-y", "@ansvar/cambodia-law-mcp"]
+      "args": ["-y", "@ansvar/cambodian-law-mcp"]
     }
   }
 }
@@ -114,37 +114,65 @@ npx @ansvar/cambodia-law-mcp
 
 Once connected, just ask naturally:
 
-- *"What does the Data Protection Act 2019 say about consent?"*
-- *"Is the Companies Act 2015 still in force?"*
-- *"Find provisions about cybersecurity in the Computer Misuse and Cybercrimes Act"*
-- *"What does the Constitution of Cambodia say about the right to privacy?"*
-- *"Search for data breach notification requirements in Cambodian law"*
-- *"What are the obligations under the National Payment Systems Act?"*
-- *"Validate this legal citation"*
-- *"Build a legal stance on personal data processing in Cambodia"*
+- *"ស្វែងរក​ច្បាប់​ការ​ការពារ​ទិន្នន័យ​ផ្ទាល់ខ្លួន"* (Search for personal data protection law)
+- *"What does the Law on Telecommunications say about data privacy?"*
+- *"Find provisions in the Criminal Code about cybercrime"*
+- *"ស្វែងរក​ច្បាប់​ការងារ​អំពី​ម៉ោង​ធ្វើការ"* (Search Labour Law provisions on working hours)
+- *"Is the Law on Commercial Enterprises still in force?"*
+- *"Find provisions about electronic transactions in Cambodian law"*
+- *"What ASEAN frameworks does Cambodia's cybersecurity law align with?"*
+- *"Validate the citation: Law on Telecommunications, Article 97"*
+- *"Build a legal stance on consumer protection obligations in Cambodia"*
 
 ---
 
-## Key Legislation Covered
+## What's Included
 
-| Act | Year | Significance |
-|-----|------|-------------|
-| **Data Protection Act** | 2019 | Comprehensive data protection law modeled on EU GDPR; established the Office of the Data Protection Commissioner (ODPC) |
-| **Computer Misuse and Cybercrimes Act** | 2018 | Comprehensive cybercrime legislation (note: Sections 22, 23, 24, 27, and 53 were partially suspended by the High Court pending constitutional review) |
-| **Cambodia Information and Communications Act** | 1998 (amended) | Regulates telecommunications and ICT sector; establishes the Communications Authority of Cambodia |
-| **Companies Act** | 2015 | Modern company law framework replacing the Companies Act (Cap 486) |
-| **Consumer Protection Act** | 2012 | Consumer rights and fair trade practices |
-| **Access to Information Act** | 2016 | Right to access government-held information |
-| **National Payment Systems Act** | 2011 | Regulation of payment systems including mobile money (M-Pesa) |
-| **Constitution of Cambodia** | 2010 | Supreme law; Article 31 guarantees the right to privacy |
+| Category | Count | Details |
+|----------|-------|---------|
+| **Laws** | 7,982 laws | Comprehensive Cambodian legislation |
+| **Provisions** | 13,691 sections | Full-text searchable with FTS5 |
+| **Database Size** | ~17 MB | Optimized SQLite, portable |
+| **Languages** | Khmer and English | Bilingual coverage |
+| **Freshness Checks** | Automated | Drift detection against official sources |
+
+**Verified data only** -- every citation is validated against official sources (National Assembly of Cambodia, OHCHR Cambodia). Zero LLM-generated content.
 
 ---
 
-## Deployment Tier
+## Why This Works
 
-**SMALL** -- Single tier, bundled SQLite database shipped with the npm package.
+**Verbatim Source Text (No LLM Processing):**
+- All statute text is ingested from national-assembly.org.kh, cambodialawcenter.org, and OHCHR Cambodia official sources
+- Provisions are returned **unchanged** from SQLite FTS5 database rows
+- Zero LLM summarization or paraphrasing -- the database contains law text, not AI interpretations
 
-**Estimated database size:** ~80-150 MB (full corpus of Cambodian federal legislation)
+**Smart Context Management:**
+- Search returns ranked provisions with BM25 scoring (safe for context)
+- Provision retrieval gives exact text by law identifier + chapter/article
+- Cross-references help navigate without loading everything at once
+
+**Technical Architecture:**
+```
+National Assembly Portal --> Parse --> SQLite --> FTS5 snippet() --> MCP response
+                               ^                        ^
+                        Provision parser         Verbatim database query
+```
+
+### Traditional Research vs. This MCP
+
+| Traditional Approach | This MCP Server |
+|---------------------|-----------------|
+| Search National Assembly by law title | Search in Khmer or English: *"ទិន្នន័យ​ផ្ទាល់ខ្លួន"* |
+| Navigate multi-chapter laws manually | Get the exact provision with context |
+| Manual cross-referencing between laws | `build_legal_stance` aggregates across sources |
+| "Is this law still in force?" -- check manually | `check_currency` tool -- answer in seconds |
+| Find ASEAN/UN basis -- dig through treaty databases | `get_eu_basis` -- linked international frameworks instantly |
+| No API, no integration | MCP protocol -- AI-native |
+
+**Traditional:** Search National Assembly portal --> Download PDF --> Search in Khmer --> Cross-reference with another law --> Check OHCHR for UN basis --> Repeat
+
+**This MCP:** *"What does Cambodia's Law on Telecommunications say about data privacy, and how does it align with ASEAN frameworks?"* --> Done.
 
 ---
 
@@ -154,56 +182,40 @@ Once connected, just ask naturally:
 
 | Tool | Description |
 |------|-------------|
-| `search_legislation` | FTS5 full-text search across all provisions with BM25 ranking |
-| `get_provision` | Retrieve specific provision by statute + chapter/section |
-| `check_currency` | Check if statute is in force, amended, or repealed |
-| `validate_citation` | Validate citation against database (zero-hallucination check) |
-| `build_legal_stance` | Aggregate citations from statutes for a legal topic |
+| `search_legislation` | FTS5 full-text search across 13,691 provisions with BM25 ranking. Supports Khmer and English queries |
+| `get_provision` | Retrieve specific provision by law identifier + chapter/article |
+| `check_currency` | Check if a law is in force, amended, or repealed |
+| `validate_citation` | Validate citation against database -- zero-hallucination check |
+| `build_legal_stance` | Aggregate citations from multiple laws for a legal topic |
 | `format_citation` | Format citations per Cambodian conventions (full/short/pinpoint) |
-| `list_sources` | List all available statutes with metadata |
-| `about` | Server info, capabilities, and coverage summary |
+| `list_sources` | List all available laws with metadata, coverage scope, and data provenance |
+| `about` | Server info, capabilities, dataset statistics, and coverage summary |
 
-### EU/International Law Integration Tools (5)
+### International Law Integration Tools (5)
 
 | Tool | Description |
 |------|-------------|
-| `get_eu_basis` | Get EU directives/regulations for Cambodian statute |
-| `get_cambodian_implementations` | Find Cambodian laws implementing EU act |
-| `search_eu_implementations` | Search EU documents with Cambodian implementation counts |
-| `get_provision_eu_basis` | Get EU law references for specific provision |
-| `validate_eu_compliance` | Check implementation status of EU directives |
+| `get_eu_basis` | Get international frameworks (ASEAN, UN conventions) that a Cambodian law aligns with |
+| `get_cambodian_implementations` | Find Cambodian laws implementing a specific international instrument |
+| `search_eu_implementations` | Search international documents with Cambodian implementation counts |
+| `get_provision_eu_basis` | Get international law references for a specific provision |
+| `validate_eu_compliance` | Check alignment status of Cambodian laws against international frameworks |
 
 ---
 
-## Why This Works
+## International Law Alignment
 
-**Verbatim Source Text (No LLM Processing):**
-- All statute text is ingested from official Cambodian government sources
-- Provisions are returned **unchanged** from SQLite FTS5 database rows
-- Zero LLM summarization or paraphrasing -- the database contains regulation text, not AI interpretations
+Cambodia is not an EU member state or candidate country. Cambodian law aligns with international frameworks through:
 
-**Smart Context Management:**
-- Search returns ranked provisions with BM25 scoring (safe for context)
-- Provision retrieval gives exact text by statute identifier + chapter/section
-- Cross-references help navigate without loading everything at once
+- **ASEAN frameworks** -- Cambodia is an ASEAN founding member; laws on digital economy, data, and trade align with ASEAN agreements
+- **UN conventions** -- Cambodia has ratified multiple UN human rights and commercial law conventions
+- **OHCHR Cambodia** -- Human rights legislation aligns with UN Human Rights frameworks
+- **UNCITRAL** -- Electronic transactions and commercial law follow UNCITRAL model law principles
+- **Bar Association of the Kingdom of Cambodia (BAKC)** -- Professional legal practice regulated by the BAKC (bakc.org.kh)
 
-**Technical Architecture:**
-```
-Official Sources --> Parse --> SQLite --> FTS5 snippet() --> MCP response
-                     ^                       ^
-              Provision parser         Verbatim database query
-```
+The international bridge tools allow you to explore these alignment relationships -- checking which Cambodian provisions correspond to ASEAN or UN requirements, and vice versa.
 
-### Traditional Research vs. This MCP
-
-| Traditional Approach | This MCP Server |
-|---------------------|-----------------|
-| Search official databases by statute number | Search by plain language |
-| Navigate multi-chapter statutes manually | Get the exact provision with context |
-| Manual cross-referencing between laws | `build_legal_stance` aggregates across sources |
-| "Is this statute still in force?" --> check manually | `check_currency` tool --> answer in seconds |
-| Find EU basis --> dig through EUR-Lex | `get_eu_basis` --> linked EU directives instantly |
-| No API, no integration | MCP protocol --> AI-native |
+> **Note:** International cross-references reflect alignment and treaty obligation relationships. Cambodia adopts its own legislative approach, and the tools help identify where Cambodian and international law address the same domains.
 
 ---
 
@@ -211,7 +223,29 @@ Official Sources --> Parse --> SQLite --> FTS5 snippet() --> MCP response
 
 All content is sourced from authoritative Cambodian legal databases:
 
-- **[Cambodia Law Reports](https://cambodialaw.org)** -- Official Cambodian government legal database
+- **[National Assembly of Cambodia](https://national-assembly.org.kh/)** -- Official laws passed by the National Assembly
+- **[Cambodia Law Center](https://cambodialawcenter.org/)** -- Comprehensive law database with English translations
+- **[OHCHR Cambodia](https://www.ohchr.org/en/countries/cambodia)** -- UN human rights treaty ratifications and related legislation
+- **[UN Cambodia](https://cambodia.un.org/)** -- UN-referenced Cambodian legislation
+
+### Data Provenance
+
+| Field | Value |
+|-------|-------|
+| **Authority** | National Assembly of Cambodia |
+| **Languages** | Khmer and English |
+| **Coverage** | 7,982 laws across all legislative areas |
+| **Last ingested** | 2026-02-28 |
+
+### Automated Freshness Checks
+
+A GitHub Actions workflow monitors all data sources:
+
+| Check | Method |
+|-------|--------|
+| **Law amendments** | Drift detection against known provision anchors |
+| **New laws** | Comparison against National Assembly index |
+| **Repealed laws** | Status change detection |
 
 **Verified data only** -- every citation is validated against official sources. Zero LLM-generated content.
 
@@ -240,11 +274,13 @@ See [SECURITY.md](SECURITY.md) for the full policy and vulnerability reporting.
 
 > **THIS TOOL IS NOT LEGAL ADVICE**
 >
-> Statute text is sourced from official Cambodian government publications. However:
+> Statute text is sourced from the National Assembly of Cambodia, cambodialawcenter.org, and OHCHR Cambodia. However:
 > - This is a **research tool**, not a substitute for professional legal counsel
-> - **Court case coverage is limited** -- do not rely solely on this for case law research
+> - **Court case coverage is not included** -- do not rely solely on this for case law research
 > - **Verify critical citations** against primary sources for court filings
-> - **EU cross-references** are extracted from statute text, not EUR-Lex full text
+> - **International cross-references** reflect alignment relationships, not formal transposition
+> - **English translations** are provided for reference; the authoritative text is in Khmer
+> - For professional legal advice in Cambodia, consult a member of the **Bar Association of the Kingdom of Cambodia (BAKC)**
 
 **Before using professionally, read:** [DISCLAIMER.md](DISCLAIMER.md) | [SECURITY.md](SECURITY.md)
 
@@ -259,8 +295,8 @@ Queries go through the Claude API. For privileged or confidential matters, use o
 ### Setup
 
 ```bash
-git clone https://github.com/Ansvar-Systems/Cambodia-law-mcp
-cd Cambodia-law-mcp
+git clone https://github.com/Ansvar-Systems/Cambodian-law-mcp
+cd Cambodian-law-mcp
 npm install
 npm run build
 npm test
@@ -273,6 +309,20 @@ npm run dev                                       # Start MCP server
 npx @anthropic/mcp-inspector node dist/index.js   # Test with MCP Inspector
 ```
 
+### Data Management
+
+```bash
+npm run ingest              # Ingest laws from official sources
+npm run build:db            # Rebuild SQLite database
+npm run check-updates       # Check for amendments and new laws
+```
+
+### Performance
+
+- **Search Speed:** <100ms for most FTS5 queries
+- **Database Size:** ~17 MB (efficient, portable)
+- **Reliability:** 100% ingestion success rate
+
 ---
 
 ## Related Projects: Complete Compliance Suite
@@ -282,16 +332,13 @@ This server is part of **Ansvar's Compliance Suite** -- MCP servers that work to
 ### [@ansvar/eu-regulations-mcp](https://github.com/Ansvar-Systems/EU_compliance_MCP)
 **Query 49 EU regulations directly from Claude** -- GDPR, AI Act, DORA, NIS2, MiFID II, eIDAS, and more. Full regulatory text with article-level search. `npx @ansvar/eu-regulations-mcp`
 
-### [@ansvar/us-regulations-mcp](https://github.com/Ansvar-Systems/US_Compliance_MCP)
-**Query US federal and state compliance laws** -- HIPAA, CCPA, SOX, GLBA, FERPA, and more. `npx @ansvar/us-regulations-mcp`
-
 ### [@ansvar/security-controls-mcp](https://github.com/Ansvar-Systems/security-controls-mcp)
 **Query 261 security frameworks** -- ISO 27001, NIST CSF, SOC 2, CIS Controls, SCF, and more. `npx @ansvar/security-controls-mcp`
 
-### [@ansvar/automotive-cybersecurity-mcp](https://github.com/Ansvar-Systems/Automotive-MCP)
-**Query UNECE R155/R156 and ISO 21434** -- Automotive cybersecurity compliance. `npx @ansvar/automotive-cybersecurity-mcp`
+### [@ansvar/sanctions-mcp](https://github.com/Ansvar-Systems/Sanctions-MCP)
+**Offline-capable sanctions screening** -- OFAC, EU, UN sanctions lists. `pip install ansvar-sanctions-mcp`
 
-**30+ national law MCPs** covering Australia, Brazil, Canada, China, Denmark, Finland, France, Germany, Ghana, Iceland, India, Ireland, Israel, Italy, Japan, Cambodia, Netherlands, Nigeria, Norway, Singapore, Slovenia, South Korea, Sweden, Switzerland, Thailand, UAE, UK, and more.
+**70+ national law MCPs** covering Australia, Brazil, Canada, China, Denmark, Finland, France, Germany, Ghana, Iceland, India, Ireland, Israel, Italy, Japan, Kenya, Netherlands, Nigeria, Norway, Singapore, Slovenia, South Korea, Sweden, Switzerland, Thailand, UAE, UK, and more.
 
 ---
 
@@ -300,23 +347,24 @@ This server is part of **Ansvar's Compliance Suite** -- MCP servers that work to
 Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 Priority areas:
-- Court case law expansion
-- EU cross-reference improvements
-- Historical statute versions and amendment tracking
-- Additional statutory instruments and regulations
+- Expanded Khmer-language provision coverage
+- Court case law (Court of Appeal, Supreme Court decisions)
+- Historical law versions and amendment tracking
+- Sub-decree and royal decree coverage
 
 ---
 
 ## Roadmap
 
-- [x] Core statute database with FTS5 search
-- [x] EU/international law cross-references
+- [x] Core law database with FTS5 search
+- [x] Full corpus ingestion (7,982 laws, 13,691 provisions)
+- [x] International law alignment tools
 - [x] Vercel Streamable HTTP deployment
 - [x] npm package publication
 - [ ] Court case law expansion
-- [ ] Historical statute versions (amendment tracking)
-- [ ] Preparatory works / explanatory memoranda
-- [ ] Lower court and tribunal decisions
+- [ ] Historical law versions (amendment tracking)
+- [ ] Sub-decree and royal decree coverage
+- [ ] Expanded English translations
 
 ---
 
@@ -325,12 +373,12 @@ Priority areas:
 If you use this MCP server in academic research:
 
 ```bibtex
-@software{cambodia_law_mcp_2025,
+@software{cambodian_law_mcp_2026,
   author = {Ansvar Systems AB},
   title = {Cambodian Law MCP Server: AI-Powered Legal Research Tool},
-  year = {2025},
-  url = {https://github.com/Ansvar-Systems/Cambodia-law-mcp},
-  note = {Cambodian legal database with full-text search and EU cross-references}
+  year = {2026},
+  url = {https://github.com/Ansvar-Systems/Cambodian-law-mcp},
+  note = {7,982 Cambodian laws with 13,691 provisions in Khmer and English}
 }
 ```
 
@@ -342,8 +390,9 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 ### Data Licenses
 
-- **Statutes & Legislation:** Cambodian Government (public domain)
-- **EU Metadata:** EUR-Lex (EU public domain)
+- **Statutes & Legislation:** National Assembly of Cambodia (public domain)
+- **English Translations:** Cambodia Law Center (open access)
+- **UN/OHCHR Materials:** United Nations (public domain)
 
 ---
 
@@ -351,7 +400,7 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 We build AI-accelerated compliance and legal research tools for the global market. This MCP server started as our internal reference tool -- turns out everyone building compliance tools has the same research frustrations.
 
-So we're open-sourcing it.
+So we're open-sourcing it. Navigating 7,982 Cambodian laws shouldn't require a law degree.
 
 **[ansvar.eu](https://ansvar.eu)** -- Stockholm, Sweden
 
