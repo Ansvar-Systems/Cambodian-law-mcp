@@ -32,12 +32,13 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Cambodia Law (camlawbox.com) — National Council for Law Reporting',
-    jurisdiction: 'KE',
+    data_source: 'Cambodia Law (moj.gov.kh / clc.gov.kh) — Ministry of Justice of Cambodia',
+    jurisdiction: 'KH',
     disclaimer:
-      'This data is sourced from Cambodia Law under Government Open Data principles. ' +
-      'The authoritative versions are in English. Swahili translations may be available for some documents. ' +
-      'Always verify with the official Cambodia Law portal (camlawbox.com).',
+      'This data is sourced from the Ministry of Justice of Cambodia legal portal. ' +
+      'The authoritative versions are maintained by the Ministry of Justice (moj.gov.kh) and the ' +
+      'Constitutional Law Center (clc.gov.kh). ' +
+      'Always verify with the official Cambodian legal portal (moj.gov.kh).',
     freshness,
   };
 }
