@@ -38,12 +38,12 @@ This MCP server makes Cambodian law **searchable, cross-referenceable, and AI-re
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://cambodian-law-mcp.vercel.app/mcp`
+**Endpoint:** `https://mcp.ansvar.eu/law-kh/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add cambodian-law --transport http https://cambodian-law-mcp.vercel.app/mcp` |
+| **Claude Code** | `claude mcp add cambodian-law --transport http https://mcp.ansvar.eu/law-kh/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -54,7 +54,7 @@ This MCP server makes Cambodian law **searchable, cross-referenceable, and AI-re
   "mcpServers": {
     "cambodian-law": {
       "type": "url",
-      "url": "https://cambodian-law-mcp.vercel.app/mcp"
+      "url": "https://mcp.ansvar.eu/law-kh/mcp"
     }
   }
 }
@@ -67,7 +67,7 @@ This MCP server makes Cambodian law **searchable, cross-referenceable, and AI-re
   "github.copilot.chat.mcp.servers": {
     "cambodian-law": {
       "type": "http",
-      "url": "https://cambodian-law-mcp.vercel.app/mcp"
+      "url": "https://mcp.ansvar.eu/law-kh/mcp"
     }
   }
 }
