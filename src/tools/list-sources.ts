@@ -44,15 +44,15 @@ export async function listSources(
     results: {
       sources: [
         {
-          name: 'Cambodia Law',
-          authority: 'National Council for Law Reporting (Cambodia Law)',
+          name: 'Cambodia Law Box',
+          authority: 'Cambodia Law Box (camlawbox.com)',
           url: 'http://camlawbox.com',
           license: 'Government Open Data',
           coverage:
-            'All Acts of Parliament (revised edition), subsidiary legislation, ' +
-            'the Constitution of Cambodia (2010), Cambodia Gazette notices, and selected case law ' +
-            'from superior courts including the Supreme Court, Court of Appeal, and High Court',
-          languages: ['en', 'sw'],
+            'Cambodian legislation including Laws (Chbab), Sub-Decrees (Anu-Kret), ' +
+            'Royal Decrees (Preah Reach Kret), Prakas (ministerial orders), Instructions, ' +
+            'Notifications, Circulars, and international instruments — 7,815 titles with dates and types',
+          languages: ['en', 'km'],
         },
       ],
       database: {
